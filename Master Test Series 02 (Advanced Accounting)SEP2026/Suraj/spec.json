@@ -471,39 +471,12 @@
         "formula for inventories IS a change in",
         "accounting policy."
       ]
-    }
-  ],
-  "rating_total": 18,
-  "rating": [
-    {
-      "name": "Introduction Competence",
-      "score": 3.5,
-      "note": "Every answer opens with a labelled heading. But Q2 says 'Net Payment Method' where you did net assets."
     },
     {
-      "name": "Content Coverage",
-      "score": 3.5,
-      "note": "All four optionals attempted. But Q4's entries and Q3's working note were never written - 6 marks of pure writing left out."
-    },
-    {
-      "name": "Conclusion Competence",
-      "score": 3,
-      "note": "Each part ends with a clear answer. But Q4's final pick is wrong; in Q5(b)(e) you crossed out the right one."
-    },
-    {
-      "name": "Presentation & Structure",
-      "score": 4.5,
-      "note": "Your best area. Tables ruled, working notes labelled, narrations and dates in every entry. Keep this."
-    },
-    {
-      "name": "Language Proficiency",
-      "score": 3.5,
-      "note": "Clear and readable. Small grammar slips ('an change', 'buy-backed') - no marks lost."
-    }
-  ],
-  "feedback": [
-    {
-      "head": "WHAT YOU DID WELL",
+      "q": "FEEDBACK",
+      "title": "WHAT YOU DID WELL",
+      "page": 1,
+      "x": 100,
       "lines": [
         "All four AS-11 MCQs correct.",
         "Q2(c) and Q2(d) exactly right - 6,00,000 and 59,70,000.",
@@ -513,7 +486,10 @@
       ]
     },
     {
-      "head": "FIX THESE TWO HABITS",
+      "q": "FEEDBACK",
+      "title": "FIX THESE TWO HABITS",
+      "page": 1,
+      "x": 100,
       "lines": [
         "*1.  Write everything the question asks for.",
         "Q4 says 'show the accounting entries' - you never did (3 marks). Q3's scheme",
@@ -526,8 +502,10 @@
       ]
     },
     {
-      "head": "WHERE THE MARKS ACTUALLY WENT",
-      "gap": 10,
+      "q": "FEEDBACK",
+      "title": "WHERE THE MARKS ACTUALLY WENT",
+      "page": 1,
+      "x": 100,
       "lines": [
         "You lost 16. Six were never written (Q3 working note, Q4 entries). Around six",
         "were concepts: the debt-equity equation in Q4, distributor sales in Q5(a),",
