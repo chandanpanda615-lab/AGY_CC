@@ -1,0 +1,178 @@
+{
+  "student": "Arisha",
+  "paper": "Corporate and Other Laws  |  Master Test 01",
+  "max": 50,
+  "total": 24.5,
+  "counted": "Q2, Q3",
+  "review": false,
+
+  "mcq": {
+    "x_tick": 940,
+    "x_mark": 1110,
+    "rows": [
+      {"n": 1, "y": 920,  "ok": true,  "marks": 2},
+      {"n": 2, "y": 1040, "ok": true,  "marks": 2},
+      {"n": 3, "y": 1160, "ok": false, "marks": 2},
+      {"n": 4, "y": 1310, "ok": true,  "marks": 2},
+      {"n": 5, "y": 1850, "ok": true,  "marks": 2},
+      {"n": 6, "y": 1990, "ok": false, "marks": 2},
+      {"n": 7, "y": 2120, "ok": true,  "marks": 2},
+      {"n": 8, "y": 2260, "ok": true,  "marks": 1}
+    ]
+  },
+
+  "questions": [
+    {"q": "Q1(a)", "max": 5, "got": 0,   "attempted": false},
+    {"q": "Q1(b)", "max": 5, "got": 3},
+    {"q": "Q1(c)", "max": 5, "got": 4},
+    {"q": "Q2(a)", "max": 5, "got": 0,   "attempted": false},
+    {"q": "Q2(b)", "max": 5, "got": 4},
+    {"q": "Q3(a)", "max": 5, "got": 0,   "attempted": false},
+    {"q": "Q3(b)", "max": 5, "got": 2.5}
+  ],
+
+  "steps": [
+    {"q": "Q1(b)", "page": 2, "x": 300, "y": 1120, "marks": 1, "for": "scheme 1 - s.16 provision, RD may direct change"},
+    {"q": "Q1(b)", "page": 2, "x": 300, "y": 2200, "marks": 1, "for": "scheme 2 - 3 months, ordinary resolution, 3 year window"},
+    {"q": "Q1(b)", "page": 3, "x": 300, "y": 1580, "marks": 1, "for": "scheme 5 - ground (ii), 3 years not 2"},
+
+    {"q": "Q1(c)", "page": 5, "x": 200, "y": 1880, "marks": 2,   "for": "scheme 1 - s.35(1) applied to Alok, no remedy"},
+    {"q": "Q1(c)", "page": 5, "x": 200, "y": 2490, "marks": 0.5, "for": "scheme 2 - consent withdrawn"},
+    {"q": "Q1(c)", "page": 5, "x": 200, "y": 2620, "marks": 1,   "for": "scheme 4 - reasonable ground only; fair representation + competence missing, half of 2"},
+    {"q": "Q1(c)", "page": 5, "x": 200, "y": 2760, "marks": 0.5, "for": "scheme 3 - issued without knowledge/consent"},
+
+    {"q": "Q2(b)", "page": 6, "x": 320, "y": 1500, "marks": 1, "for": "scheme 1 - Rule 2(1)(c)(iii), bank loan not a deposit"},
+    {"q": "Q2(b)", "page": 7, "x": 200, "y": 760,  "marks": 2, "for": "scheme 3 - Rule 3(5), Govt company 35%"},
+    {"q": "Q2(b)", "page": 7, "x": 200, "y": 1300, "marks": 1, "for": "scheme 4 - conclusion, 25% is wrong"},
+
+    {"q": "Q3(b)", "page": 7, "x": 200, "y": 2180, "marks": 0.5, "for": "scheme 1 - s.42(2) select group, partial"},
+    {"q": "Q3(b)", "page": 7, "x": 200, "y": 2620, "marks": 1,   "for": "scheme 2 - Rule 14(2), 200 in a FY"},
+    {"q": "Q3(b)", "page": 7, "x": 200, "y": 3580, "marks": 1,   "for": "scheme 4 - QIB + ESOP both excluded"}
+  ],
+
+  "box": {"x1": 1500, "y1": 660, "x2": 2900, "y2": 2320},
+
+  "marks": [
+    {"page": 3, "x": 600,  "y": 3120, "text": "Q1(b) = 3 / 5"},
+    {"page": 5, "x": 600,  "y": 3020, "text": "Q1(c) = 4 / 5"},
+    {"page": 7, "x": 2150, "y": 1300, "text": "Q2(b) = 4 / 5"},
+    {"page": 7, "x": 600,  "y": 3700, "text": "Q3(b) = 2.5 / 5"}
+  ],
+
+  "underlines": [
+    {"page": 4, "x1": 600,  "x2": 1560, "y": 1690, "for": "her \"section 447\""},
+    {"page": 4, "x1": 1120, "x2": 1610, "y": 1965, "for": "her \"Section 34\""}
+  ],
+
+  "crosses": [
+    {"page": 6, "x": 2480, "y": 2400, "for": "her underlined \"Valid\""}
+  ],
+
+  "_notes": "Reasoning lives on the REMARKS page. The copy keeps only marks and spot marks - the underlines under her wrong section numbers and the cross on her \"Valid\" conclusion.",
+
+  "remarks": [
+    {"q": "MCQ", "title": "Part I", "lines": [
+      "11 of 15. Q3 and Q6 wrong, the other six correct. On Q3 you struck out a first",
+      "answer and wrote (B) beside it; the surviving answer is clear so it was marked as",
+      "written - but the key is (A), refund within 15 days."
+    ]},
+    {"q": "Q1(a)", "title": "Related party / wholly owned subsidiaries", "lines": [
+      "Not attempted. Question 1 is compulsory and this part carries 5 marks.",
+      "Needed: Sec 2(76)(viii) - a subsidiary of a holding company to which it is also a",
+      "subsidiary is a related party - but Notification G.S.R. 464(E) disapplies clause",
+      "(viii) to Sec 188 for a private company."
+    ]},
+    {"q": "Q1(b)", "title": "Company name / Trade Marks Act", "lines": [
+      "Earned: the provision, and 3 months, ordinary resolution and the 3 year window, all",
+      "produced correctly. Ground (ii) concluded correctly - the window is 3 years, not 2.",
+      "Not earned: ground (i) is never concluded. You needed to say the restriction covers",
+      "not only an existing company's name but also an application by a registered trade",
+      "mark proprietor, and that the name is verbatim identical to Mr X's mark. The",
+      "paragraph that would have done it was struck out. That is 2 marks.",
+      "Warning: Sec 16 is never named."
+    ]},
+    {"q": "Q1(c)", "title": "Expert liability for misstatement in prospectus", "lines": [
+      "Earned: Sec 35(1) applied to Mr Alok and the conclusion that he has no remedy - the",
+      "model's exact conclusion. Both half-mark exceptions are right too.",
+      "Half earned: point (iii) is one line. It needed the report to be a correct and fair",
+      "representation AND reasonable ground to believe the expert was competent.",
+      "Warning - wrong sections (underlined on the copy): you cite Sec 34 and Sec 447.",
+      "Civil liability is Sec 35; Sec 34 is criminal, Sec 447 is fraud. Marks given",
+      "because the reasoning and conclusion are correct."
+    ]},
+    {"q": "Q2(a)", "title": "Bonus shares", "lines": [
+      "Not attempted. Needed: the pre-requisites under Sec 63(2) - authorised by the",
+      "Articles, recommended by the Board and authorised in general meeting, no default on",
+      "deposits or debt securities or employees' dues, partly paid shares made fully paid,",
+      "and Rule 14 compliance. One mark each, max 5."
+    ]},
+    {"q": "Q2(b)", "title": "Deposits", "lines": [
+      "Earned: part (b) in full - the Rule 3(5) limit of 35% of paid-up capital, free",
+      "reserves and securities premium, and why 25% is wrong. Part (a)'s provision is right",
+      "too: a loan from a banking company is not a deposit.",
+      "Not earned: your conclusion in (a) contradicts your own reasoning. You prove the ABC",
+      "Bank loan is NOT a deposit, then write that Mr Taar's opinion \"is Valid\" (crossed on",
+      "the copy). His opinion was that it IS a deposit - so your analysis makes it NOT",
+      "correct. The law was right; the last line reversed it."
+    ]},
+    {"q": "Q3(a)", "title": "Service of documents", "lines": [
+      "Not attempted. Needed: Sec 20 - service on a company by registered post, speed post,",
+      "courier, leaving it at the registered office or prescribed electronic mode; and",
+      "Sec 20(2) for the Registrar or a member, with a member's right to a particular mode",
+      "on paying the fee fixed in the AGM."
+    ]},
+    {"q": "Q3(b)", "title": "Private placement", "lines": [
+      "Earned: the Rule 14(2) ceiling of 200 persons in aggregate in a financial year, and",
+      "both exclusions - QIBs AND ESOP employees. That is the substance of part (i).",
+      "Half earned: Sec 42(2)'s select group identified by the Board, only partly stated.",
+      "Not earned: the Explanation - the limit is reckoned separately for each kind of",
+      "security - and all of part (ii), which the answer never reaches.",
+      "Warning: you open \"the statement is invalid\". It is PARTLY correct - only the ESOP",
+      "claim is wrong. Say which part fails rather than rejecting all of it."
+    ]}
+  ],
+
+  "rating_total": 16,
+  "rating": [
+    {"name": "Introduction Competence", "score": 3.5,
+     "note": "You open with the provision every time, which is right. Weak point: no section number in the opening line."},
+    {"name": "Content Coverage", "score": 2.5,
+     "note": "Your weakest area. Q1(a), Q2(a) and Q3(a) are blank - 15 marks with nothing written at all."},
+    {"name": "Conclusion Competence", "score": 2.5,
+     "note": "You always write a conclusion - a good habit. But Q2(b) contradicts your own reasoning, Q3(b) overstates."},
+    {"name": "Presentation & Structure", "score": 4,
+     "note": "Your best area. Pointwise, numbered, well spaced, conclusions underlined. Easy to follow. Keep this."},
+    {"name": "Language Proficiency", "score": 3.5,
+     "note": "Clear, correct legal language and grammar. Watch spelling - \"propreitor\", \"resonable\", \"relevent\"."}
+  ],
+
+  "feedback": [
+    {"head": "WHAT YOU DID WELL", "lines": [
+      "Your provisions are strong. In Q1(b) you wrote 3 months, ordinary resolution",
+      "and 3 years on your own. All correct.",
+      "In Q1(c) your final answer is the same as the model answer. \"No remedy\" is right.",
+      "You know the 35% deposit rule well."
+    ]},
+    {"head": "FIX THESE TWO HABITS", "lines": [
+      "*1.  Your last line does not match your own working.",
+      "In Q2(b)(a) you proved the bank loan is not a deposit. Then you wrote that",
+      "Mr Taar's opinion \"is Valid\". His opinion was the opposite of what you proved.",
+      "Read the question once more before you write the conclusion.",
+      "*2.  Write the section number.",
+      "You wrote Sec 34 and Sec 447 where Sec 35 applies. You did not write Sec 16",
+      "anywhere. No marks were cut this time. But in the exam the section number is",
+      "what shows the examiner you know the provision."
+    ]},
+    {"head": "YOUR BIGGEST LOSS IS BLANK SPACE, NOT WRONG ANSWERS", "gap": 10, "lines": [
+      "Q1(a), Q2(a) and Q3(a) have nothing written at all - that is 15 marks.",
+      "Q3(b) stops in the middle and part (ii) is never reached.",
+      "*Out of the 35 marks you attempted, you scored 24.5. That is 70%.",
+      "So your law is not the problem - blank space is. If you had written even half",
+      "of those three questions, your total would look completely different.",
+      "If time is short, write the provision and the conclusion in two lines instead",
+      "of leaving the page empty. Never leave a compulsory question."
+    ]}
+  ],
+
+  "footer": "If you want to go deeper on any of this, you can connect with an SME."
+}

@@ -1,0 +1,541 @@
+{
+  "student": "Suraj",
+  "paper": "Advanced Accounting  |  Master Test 02",
+  "max": 50,
+  "total": 34,
+  "counted": "Q2, Q3, Q4, Q5",
+  "review": false,
+  "_placement": "A4 portrait scan, 3000x4242 work space. Q6 is the uncounted optional (not attempted) - omitted from questions per Arisha/Hardik precedent, explained in evaluation.md.",
+  "mcq": {
+    "x_tick": 620,
+    "x_mark": 800,
+    "rows": [
+      {
+        "n": 1,
+        "y": 547,
+        "ok": true,
+        "marks": 2
+      },
+      {
+        "n": 2,
+        "y": 674,
+        "ok": true,
+        "marks": 2
+      },
+      {
+        "n": 3,
+        "y": 799,
+        "ok": true,
+        "marks": 2
+      },
+      {
+        "n": 4,
+        "y": 918,
+        "ok": true,
+        "marks": 2
+      },
+      {
+        "n": 5,
+        "y": 1157,
+        "ok": false,
+        "marks": 2
+      }
+    ]
+  },
+  "questions": [
+    {
+      "q": "Q2",
+      "max": 10,
+      "got": 8
+    },
+    {
+      "q": "Q3",
+      "max": 10,
+      "got": 7
+    },
+    {
+      "q": "Q4",
+      "max": 10,
+      "got": 4
+    },
+    {
+      "q": "Q5(a)",
+      "max": 5,
+      "got": 4
+    },
+    {
+      "q": "Q5(b)",
+      "max": 5,
+      "got": 3
+    }
+  ],
+  "steps": [
+    {
+      "q": "Q2",
+      "page": 2,
+      "x": 180,
+      "y": 2640,
+      "marks": 2,
+      "for": "(a) net-assets method, goodwill, share division - PC figure wrong (dividend)"
+    },
+    {
+      "q": "Q2",
+      "page": 3,
+      "x": 180,
+      "y": 1972,
+      "marks": 2,
+      "for": "(b) NCA structure and components - cash wrong both companies"
+    },
+    {
+      "q": "Q2",
+      "page": 3,
+      "x": 180,
+      "y": 2756,
+      "marks": 2,
+      "for": "(c) P&L of Black 6,00,000 - exact"
+    },
+    {
+      "q": "Q2",
+      "page": 3,
+      "x": 180,
+      "y": 3519,
+      "marks": 2,
+      "for": "(d) PPE 59,70,000 - exact"
+    },
+    {
+      "q": "Q3",
+      "page": 4,
+      "x": 180,
+      "y": 1357,
+      "marks": 1,
+      "for": "(vi) tax 525 paid out of current assets"
+    },
+    {
+      "q": "Q3",
+      "page": 4,
+      "x": 180,
+      "y": 1760,
+      "marks": 1,
+      "for": "(v) provision for tax closed to CR"
+    },
+    {
+      "q": "Q3",
+      "page": 4,
+      "x": 180,
+      "y": 2374,
+      "marks": 1,
+      "for": "(i) equity 35,000 -> 14,000 + CR 21,000"
+    },
+    {
+      "q": "Q3",
+      "page": 4,
+      "x": 180,
+      "y": 2957,
+      "marks": 1,
+      "for": "(ii) pref 17,500 -> 10,500 + CR 7,000"
+    },
+    {
+      "q": "Q3",
+      "page": 4,
+      "x": 180,
+      "y": 3498,
+      "marks": 1,
+      "for": "(iii) deb 14,000 -> 11,200 + CR 2,800"
+    },
+    {
+      "q": "Q3",
+      "page": 5,
+      "x": 180,
+      "y": 1124,
+      "marks": 1,
+      "for": "(iv) creditors 7,000 -> equity 3,500 + CR 3,500"
+    },
+    {
+      "q": "Q3",
+      "page": 5,
+      "x": 180,
+      "y": 2099,
+      "marks": 1,
+      "for": "(vii) write-offs complete, Capital Reserve 4,375"
+    },
+    {
+      "q": "Q4",
+      "page": 6,
+      "x": 180,
+      "y": 1060,
+      "marks": 0.5,
+      "for": "WN1 shares outstanding 24.75 L"
+    },
+    {
+      "q": "Q4",
+      "page": 6,
+      "x": 180,
+      "y": 3509,
+      "marks": 1.5,
+      "for": "WN2 resources test 18.75 L, Infra Dev Reserve excluded"
+    },
+    {
+      "q": "Q4",
+      "page": 7,
+      "x": 180,
+      "y": 1806,
+      "marks": 1,
+      "for": "WN3 cases 5400 and 4500 - buy-back not possible"
+    },
+    {
+      "q": "Q4",
+      "page": 7,
+      "x": 180,
+      "y": 2523,
+      "marks": 0.5,
+      "for": "statement - two of three situations concluded right"
+    },
+    {
+      "q": "Q4",
+      "page": 7,
+      "x": 180,
+      "y": 2957,
+      "marks": 0.5,
+      "for": "sim-eq relation y = 3x"
+    },
+    {
+      "q": "Q5(a)",
+      "page": 8,
+      "x": 180,
+      "y": 1272,
+      "marks": 1,
+      "for": "(1) trade discount - not recognised"
+    },
+    {
+      "q": "Q5(a)",
+      "page": 8,
+      "x": 180,
+      "y": 2417,
+      "marks": 1,
+      "for": "(3) repurchase agreement - not revenue"
+    },
+    {
+      "q": "Q5(a)",
+      "page": 8,
+      "x": 180,
+      "y": 2820,
+      "marks": 1,
+      "for": "(4) insurance commission - when policy sold"
+    },
+    {
+      "q": "Q5(a)",
+      "page": 8,
+      "x": 180,
+      "y": 3583,
+      "marks": 1,
+      "for": "(5) X mart - recognise 11-3-2019, risk transferred"
+    },
+    {
+      "q": "Q5(b)",
+      "page": 9,
+      "x": 180,
+      "y": 763,
+      "marks": 1,
+      "for": "(a) change in estimate"
+    },
+    {
+      "q": "Q5(b)",
+      "page": 9,
+      "x": 180,
+      "y": 1336,
+      "marks": 1,
+      "for": "(b) not a change in policy"
+    },
+    {
+      "q": "Q5(b)",
+      "page": 9,
+      "x": 180,
+      "y": 2067,
+      "marks": 1,
+      "for": "(c) change in estimate"
+    }
+  ],
+  "box": {
+    "x1": 1760,
+    "y1": 3120,
+    "x2": 2870,
+    "y2": 4180
+  },
+  "marks": [
+    {
+      "page": 3,
+      "x": 1900,
+      "y": 3816,
+      "text": "Q2 = 8 / 10"
+    },
+    {
+      "page": 5,
+      "x": 1480,
+      "y": 3180,
+      "text": "Q3 = 7 / 10"
+    },
+    {
+      "page": 8,
+      "x": 1690,
+      "y": 700,
+      "text": "Q4 = 4 / 10"
+    },
+    {
+      "page": 8,
+      "x": 1270,
+      "y": 3880,
+      "text": "Q5(a) = 4 / 5"
+    },
+    {
+      "page": 9,
+      "x": 1270,
+      "y": 3710,
+      "text": "Q5(b) = 3 / 5"
+    }
+  ],
+  "underlines": [
+    {
+      "page": 2,
+      "x1": 2540,
+      "x2": 2800,
+      "y": 2235,
+      "for": "cash total 7,20,000 - dividend not deducted"
+    },
+    {
+      "page": 3,
+      "x1": 1866,
+      "x2": 2735,
+      "y": 1060,
+      "for": "both cash figures 20,10,000 and 7,20,000"
+    }
+  ],
+  "crosses": [
+    {
+      "page": 2,
+      "x": 2374,
+      "y": 3068,
+      "for": "48,600 shares - correct is 45,000"
+    },
+    {
+      "page": 7,
+      "x": 1272,
+      "y": 2968,
+      "for": "wrong equation 4500 - x - y = 3600"
+    },
+    {
+      "page": 7,
+      "x": 2332,
+      "y": 3646,
+      "for": "22,50,000 shares"
+    },
+    {
+      "page": 8,
+      "x": 954,
+      "y": 789,
+      "for": "final answer 18,75,000 - correct is 11,25,000"
+    },
+    {
+      "page": 8,
+      "x": 2790,
+      "y": 1696,
+      "for": "Q5(a)(2) distributor - conceptually wrong"
+    },
+    {
+      "page": 9,
+      "x": 2544,
+      "y": 2427,
+      "for": "Q5(b)(d) - it is NOT a change in policy"
+    },
+    {
+      "page": 9,
+      "x": 2700,
+      "y": 3434,
+      "for": "Q5(b)(e) - it IS a change in policy"
+    }
+  ],
+  "remarks": [
+    {
+      "q": "MCQ",
+      "title": "Q1 (compulsory)",
+      "page": 1,
+      "x": 100,
+      "y": 3150,
+      "lines": [
+        "8 of 10. All four AS-11 foreign",
+        "exchange MCQs correct - well done.",
+        "1(b) wrong - you chose (A), the",
+        "key is (B). Contract cost is",
+        "125 - 22 unused + 95 labour",
+        "+ 115 future + 42 depreciation",
+        "(210 x 4/20) = 355 L against",
+        "price 350 L, so the loss is",
+        "5 L, not 49 L."
+      ]
+    },
+    {
+      "q": "Q2",
+      "title": "Takeover of White Ltd",
+      "page": 3,
+      "x": 100,
+      "y": 3100,
+      "lines": [
+        "Earned: the net-assets method and clean",
+        "tables throughout; (c) 6,00,000 and",
+        "(d) 59,70,000 are exactly right; goodwill",
+        "added and shares found at 100 each.",
+        "Not earned: dividend paid never left your",
+        "cash. White's cash is 3,60,000 (not",
+        "7,20,000) and Black's 14,10,000 (not",
+        "20,10,000). So PC is 45,00,000 -> 45,000",
+        "shares (not 48,600), and net current",
+        "assets are 34,50,000 / 18,00,000.",
+        "One error, charged once per part. You DID",
+        "deduct the dividend in (c) - the same",
+        "dividend also reduces cash."
+      ]
+    },
+    {
+      "q": "Q3",
+      "title": "Internal reconstruction - journal entries",
+      "page": 5,
+      "x": 100,
+      "y": 2600,
+      "lines": [
+        "Earned: all seven entries, right figures,",
+        "narrations and dates. Your route for tax",
+        "(through Capital Reduction) is different",
+        "from the model but reaches the same",
+        "Capital Reserve of 4,375 - accepted.",
+        "Not earned: the Capital Reduction Account",
+        "working note - 3 marks. Your entries",
+        "balance at 34,650 both sides, but the",
+        "scheme pays for SHOWING the account."
+      ]
+    },
+    {
+      "q": "Q4",
+      "title": "Buy-back - maximum shares",
+      "page": 6,
+      "x": 100,
+      "y": 3100,
+      "lines": [
+        "Earned: 24.75 L (capital test), 18.75 L",
+        "(resources test) with the Infrastructure",
+        "Development Reserve rightly excluded,",
+        "and 'not possible' for 5,400 L and 4,500 L.",
+        "Not earned: the 3,600 L case. The equation",
+        "is (2250 - x) - 1800 = y with y = 3x,",
+        "giving x = 112.5, y = 337.5 -> 11,25,000",
+        "shares. Yours (4500 - x - y = 3600) gives",
+        "22.5 L. The final answer is the LEAST of",
+        "the three tests = 11.25 L - the debt-equity",
+        "test binds here, not the resources test.",
+        "The journal entries the question asked for",
+        "were never written - 3 marks."
+      ]
+    },
+    {
+      "q": "Q5(a)",
+      "title": "AS 9 - revenue recognition",
+      "page": 8,
+      "x": 100,
+      "y": 3350,
+      "lines": [
+        "Earned: (1), (3), (4), (5) - conclusions",
+        "match the model.",
+        "Not earned: (2). Sale to a distributor is",
+        "generally recognised WHEN the goods are",
+        "sold to the distributor, if significant",
+        "risks of ownership have passed. It waits",
+        "for the onward sale only where the",
+        "distributor is in substance an agent",
+        "(consignment). You made the exception",
+        "the rule."
+      ]
+    },
+    {
+      "q": "Q5(b)",
+      "title": "AS 5 - change in accounting policy",
+      "page": 9,
+      "x": 100,
+      "y": 3350,
+      "lines": [
+        "Earned: (a), (b), (c) - all three",
+        "correctly reasoned as estimate / not policy.",
+        "Not earned: (d) - a policy adopted for",
+        "events that never occurred before (the new",
+        "pension scheme) is NOT a change in",
+        "accounting policy. And (e) - your",
+        "struck-out answer was right; the one you",
+        "let stand is wrong. Change in the cost",
+        "formula for inventories IS a change in",
+        "accounting policy."
+      ]
+    }
+  ],
+  "rating_total": 18,
+  "rating": [
+    {
+      "name": "Introduction Competence",
+      "score": 3.5,
+      "note": "Every answer opens with a labelled heading. But Q2 says 'Net Payment Method' where you did net assets."
+    },
+    {
+      "name": "Content Coverage",
+      "score": 3.5,
+      "note": "All four optionals attempted. But Q4's entries and Q3's working note were never written - 6 marks of pure writing left out."
+    },
+    {
+      "name": "Conclusion Competence",
+      "score": 3,
+      "note": "Each part ends with a clear answer. But Q4's final pick is wrong; in Q5(b)(e) you crossed out the right one."
+    },
+    {
+      "name": "Presentation & Structure",
+      "score": 4.5,
+      "note": "Your best area. Tables ruled, working notes labelled, narrations and dates in every entry. Keep this."
+    },
+    {
+      "name": "Language Proficiency",
+      "score": 3.5,
+      "note": "Clear and readable. Small grammar slips ('an change', 'buy-backed') - no marks lost."
+    }
+  ],
+  "feedback": [
+    {
+      "head": "WHAT YOU DID WELL",
+      "lines": [
+        "All four AS-11 MCQs correct.",
+        "Q2(c) and Q2(d) exactly right - 6,00,000 and 59,70,000.",
+        "Q3: all seven journal entries with narrations, and your own tax route still",
+        "reached the model's Capital Reserve of 4,375. That shows real understanding.",
+        "*Your presentation is genuinely good - ruled tables, labelled working notes."
+      ]
+    },
+    {
+      "head": "FIX THESE TWO HABITS",
+      "lines": [
+        "*1.  Write everything the question asks for.",
+        "Q4 says 'show the accounting entries' - you never did (3 marks). Q3's scheme",
+        "gives 3 marks for the Capital Reduction Account. That is 6 marks of writing",
+        "you already know, gone.",
+        "*2.  Carry one fact through the whole answer.",
+        "In Q2 you deducted the dividend in the P&L computation but not from cash.",
+        "That one slip cost marks in both (a) and (b). After finishing, ask: did every",
+        "adjustment hit every statement it touches?"
+      ]
+    },
+    {
+      "head": "WHERE THE MARKS ACTUALLY WENT",
+      "gap": 10,
+      "lines": [
+        "You lost 16. Six were never written (Q3 working note, Q4 entries). Around six",
+        "were concepts: the debt-equity equation in Q4, distributor sales in Q5(a),",
+        "pension scheme and cost formula in Q5(b). Four were the dividend slip and 1(b).",
+        "*Your method and presentation are already exam-level. The gap is completeness",
+        "and a handful of concepts - both fixable before the real attempt."
+      ]
+    }
+  ],
+  "footer": "If you want to go deeper on any of this, you can connect with an SME."
+}

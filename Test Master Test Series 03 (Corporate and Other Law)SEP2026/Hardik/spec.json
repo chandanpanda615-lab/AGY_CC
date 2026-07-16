@@ -1,0 +1,254 @@
+{
+  "student": "Hardik",
+  "paper": "Corporate and Other Laws  |  Master Test 03",
+  "max": 50,
+  "total": 41.5,
+  "counted": "Q2, Q3",
+  "review": false,
+
+  "mcq": {
+    "x_tick": 1050,
+    "x_mark": 1230,
+    "rows": [
+      {"n": 1, "y": 425,  "ok": true,  "marks": 2},
+      {"n": 2, "y": 585,  "ok": true,  "marks": 2},
+      {"n": 3, "y": 740,  "ok": true,  "marks": 2},
+      {"n": 4, "y": 895,  "ok": true,  "marks": 2},
+      {"n": 5, "y": 1045, "ok": true,  "marks": 2},
+      {"n": 6, "y": 1200, "ok": true,  "marks": 2},
+      {"n": 7, "y": 1330, "ok": true,  "marks": 2},
+      {"n": 8, "y": 1430, "ok": false, "marks": 1}
+    ]
+  },
+
+  "questions": [
+    {"q": "Q1(a)", "max": 5, "got": 4},
+    {"q": "Q1(b)", "max": 5, "got": 5},
+    {"q": "Q1(c)", "max": 5, "got": 5},
+    {"q": "Q2(a)", "max": 5, "got": 2},
+    {"q": "Q2(b)", "max": 5, "got": 5},
+    {"q": "Q3(a)", "max": 5, "got": 4.5},
+    {"q": "Q3(b)", "max": 5, "got": 2}
+  ],
+
+  "_placement": "Hardik's scan is A4, tilted, with no usable left margin, so step marks sit in the RIGHT margin. Every x/y below was found by searching the rendered page for a genuinely blank rectangle - not eyeballed. Page 5 has no blank band anywhere, so its note lives on the feedback page instead.",
+
+  "steps": [
+    {"q": "Q1(a)", "page": 1, "x": 2738, "y": 2490, "marks": 1, "for": "scheme 1 - s.139(2), two terms of five years"},
+    {"q": "Q1(a)", "page": 1, "x": 2738, "y": 2945, "marks": 1, "for": "scheme 4 - five year cooling off"},
+    {"q": "Q1(a)", "page": 1, "x": 2234, "y": 3400, "marks": 1, "for": "scheme 2 - common partner bar"},
+    {"q": "Q1(a)", "page": 1, "x": 2738, "y": 3905, "marks": 1, "for": "scheme 3 - cannot appoint Mehta"},
+
+    {"q": "Q1(b)", "page": 2, "x": 2702, "y": 1180, "marks": 1, "for": "(a) charter/MOA + translation"},
+    {"q": "Q1(b)", "page": 2, "x": 2714, "y": 1290, "marks": 1, "for": "(b) address of principal office"},
+    {"q": "Q1(b)", "page": 2, "x": 2738, "y": 2620, "marks": 1, "for": "(c) list of directors with particulars"},
+    {"q": "Q1(b)", "page": 2, "x": 2738, "y": 3200, "marks": 1, "for": "(f) earlier opening/closing"},
+    {"q": "Q1(b)", "page": 2, "x": 2546, "y": 3340, "marks": 1, "for": "(e) office address in India - ceiling reached at 5"},
+
+    {"q": "Q1(c)", "page": 3, "x": 2738, "y": 720,  "marks": 1, "for": "scheme 1 - s.9 GCA, exclude first include last"},
+    {"q": "Q1(c)", "page": 3, "x": 2738, "y": 1430, "marks": 2, "for": "scheme 2 - s.127, 28 Sep to 27 Oct"},
+    {"q": "Q1(c)", "page": 3, "x": 2738, "y": 2240, "marks": 2, "for": "scheme 3 - s.124, 28 Oct to 3 Nov"},
+
+    {"q": "Q2(b)", "page": 4, "x": 2438, "y": 1470, "marks": 2, "for": "scheme 2 - s.64, all five grounds"},
+    {"q": "Q2(b)", "page": 4, "x": 710,  "y": 2125, "marks": 3, "for": "scheme 1 - s.6 stated and applied to the facts"},
+
+    {"q": "Q3(a)", "page": 4, "x": 2606, "y": 2720, "marks": 2, "for": "scheme 1+2 - the 1%/USD 5m rule and 1% of 12m = 120,000, both in one sentence"},
+    {"q": "Q3(a)", "page": 4, "x": 2618, "y": 2850, "marks": 1, "for": "scheme 3 - may donate up to 120,000"},
+    {"q": "Q3(a)", "page": 4, "x": 2666, "y": 3380, "marks": 1, "for": "scheme 4 - 5% / USD 100,000 rule"},
+    {"q": "Q3(a)", "page": 4, "x": 2666, "y": 3555, "marks": 0.5, "for": "scheme 5 - limit given but never concludes approval is required"},
+
+    {"q": "Q3(b)", "page": 5, "x": 2738, "y": 1840, "marks": 1, "for": "point 1 - ambiguity in language"},
+    {"q": "Q3(b)", "page": 5, "x": 1298, "y": 2075, "marks": 1, "for": "point 2 - vagueness / unclear words"},
+
+    {"q": "Q2(a)", "page": 5, "x": 2246, "y": 3465, "marks": 2, "for": "Beneficial Construction - meaning/purpose and liberal nature. One mark covers both: he wrote flowing prose, not two discrete points"}
+  ],
+
+  "box": {"x1": 1700, "y1": 450, "x2": 2820, "y2": 1640},
+
+  "marks": [
+    {"page": 1, "x": 2222, "y": 3625, "text": "Q1(a) = 4 / 5"},
+    {"page": 2, "x": 2250, "y": 4010, "text": "Q1(b) = 5 / 5"},
+    {"page": 3, "x": 920,  "y": 2210, "text": "Q1(c) = 5 / 5"},
+    {"page": 4, "x": 808,  "y": 1476, "text": "Q2(b) = 5 / 5"},
+    {"page": 4, "x": 2250, "y": 4000, "text": "Q3(a) = 4.5 / 5"},
+    {"page": 5, "x": 1750, "y": 2790, "text": "Q3(b) = 2 / 5"},
+    {"page": 5, "x": 2250, "y": 3978, "text": "Q2(a) = 2 / 5"}
+  ],
+
+  "_notes": "This scan has no room to place comments beside the answers without covering the handwriting, so the copy carries marks only and all reasoning is on the REMARKS page.",
+
+  "remarks": [
+    {
+      "q": "MCQ",
+      "title": "Part I",
+      "page": 1,
+      "x": 100,
+      "y": 1600,
+      "lines": [
+        "7 of 8 correct. Only Q8 wrong - you",
+        "chose (D), the key is (B). Mr John CAN",
+        "invest USD 150,000 under the FDI automatic",
+        "route; it is Mr Christopher who cannot",
+        "remit without RBI approval."
+      ]
+    },
+    {
+      "q": "Q1(a)",
+      "title": "Auditor rotation / common partner",
+      "page": 1,
+      "x": 100,
+      "y": 3500,
+      "lines": [
+        "Earned: Sec 139(2) two-terms rule, the",
+        "common-partner bar, the 5 year cooling",
+        "off, and the conclusion that Mehta cannot",
+        "be appointed. All correct.",
+        "Not earned: the question asks WHEN the",
+        "restriction is lifted. The answer is",
+        "2032 (2027 + 5). You never write it."
+      ]
+    },
+    {
+      "q": "Q1(b)",
+      "title": "Foreign company - documents u/s 380",
+      "page": 2,
+      "x": 100,
+      "y": 3450,
+      "lines": [
+        "Excellent. Seven of the eight documents,",
+        "plus the 30 days and Form FC-1.",
+        "The ceiling is 1 mark per point up to 5,",
+        "so 5 awarded - you wrote more than needed.",
+        "Only missing: the declaration that no",
+        "director is convicted or debarred."
+      ]
+    },
+    {
+      "q": "Q1(c)",
+      "title": "Dividend dates / General Clauses Act",
+      "page": 3,
+      "x": 100,
+      "y": 2320,
+      "lines": [
+        "Full marks. Both ranges exactly right:",
+        "28 Sep to 27 Oct, and 28 Oct to 3 Nov,",
+        "both days inclusive, and you applied",
+        "\"from\" excludes / \"to\" includes correctly.",
+        "Warning: you name the Acts but never the",
+        "sections - Sec 9 of the GCA, Sec 127 and",
+        "Sec 124. Marks given."
+      ]
+    },
+    {
+      "q": "Q2(a)",
+      "title": "Beneficial vs Exceptional Construction",
+      "page": 5,
+      "x": 100,
+      "y": 3100,
+      "lines": [
+        "Earned: the meaning and purpose of",
+        "Beneficial Construction - liberal reading",
+        "that favours the class the statute",
+        "protects.",
+        "Not earned: the question says \"write",
+        "any four DIFFERENCES\". You described",
+        "each rule separately instead of",
+        "contrasting them - use a table.",
+        "Also, your Rule of Exceptional Construction",
+        "is not what the model means. Here it",
+        "is the NARROW reading of provisions."
+      ]
+    },
+    {
+      "q": "Q2(b)",
+      "title": "LLP with a single partner / winding up",
+      "page": 4,
+      "x": 100,
+      "y": 1500,
+      "lines": [
+        "Full marks and your best answer. Sec 6",
+        "stated and applied to the quarrel, and",
+        "all five grounds for winding up by the",
+        "Tribunal reproduced correctly.",
+        "Warning: Sec 6 and Sec 64 are never named."
+      ]
+    },
+    {
+      "q": "Q3(a)",
+      "title": "FEMA - donations and remittances",
+      "page": 4,
+      "x": 100,
+      "y": 2200,
+      "lines": [
+        "Earned: the 1% / USD 5m rule, 1% of",
+        "12,000,000 = 120,000, the conclusion",
+        "that 120,000 may be donated without",
+        "approval, and the 5% / USD 100,000 rule.",
+        "Half earned: (2) asks \"does it need RBI",
+        "approval?\" You never answer. Say yes,",
+        "prior approval is required."
+      ]
+    },
+    {
+      "q": "Q3(b)",
+      "title": "When interpretation is applied",
+      "page": 5,
+      "x": 100,
+      "y": 1950,
+      "lines": [
+        "Earned: ambiguity in language, and vague",
+        "or unclear wording.",
+        "Not earned: five more circumstances are",
+        "listed - conflict, silence/omission,",
+        "changing conditions, technical language,",
+        "and external events/agreements.",
+        "You explained WHY interpretation is",
+        "needed. The question asked WHEN it applies."
+      ]
+    }
+  ],
+
+  "rating_total": 18.5,
+  "rating": [
+    {"name": "Introduction Competence", "score": 4,
+     "note": "You open with the provision every time, which is right. Sec 380 cited well - do that everywhere."},
+    {"name": "Content Coverage", "score": 4,
+     "note": "You attempted everything the paper asked and left nothing blank. Q2(a) and Q3(b) are thin."},
+    {"name": "Conclusion Competence", "score": 3,
+     "note": "Q1(a) never says 2032 and Q3(a)(2) never says approval is needed. The last line must answer the question."},
+    {"name": "Presentation & Structure", "score": 4,
+     "note": "Numbered, well spaced, key phrases underlined, provision then application then conclusion. Very good."},
+    {"name": "Language Proficiency", "score": 3.5,
+     "note": "Clear legal language. Watch spelling - \"statue\" for statute, \"transalation\", \"succedding\", \"occassion\"."}
+  ],
+
+  "feedback": [
+    {"head": "WHAT YOU DID WELL", "lines": [
+      "7 of 8 MCQs correct - the strongest part of your paper.",
+      "Q1(b): seven of the eight documents under Sec 380, with the 30 days and Form FC-1.",
+      "Q1(c): both date ranges exactly right - 28 Sep to 27 Oct, and 28 Oct to 3 Nov.",
+      "Q2(b): all five grounds for winding up, and you applied Sec 6 to the facts.",
+      "*You attempted everything the paper asked and left nothing blank."
+    ]},
+    {"head": "FIX THESE TWO HABITS", "lines": [
+      "*1.  Answer the question that was actually asked.",
+      "Q1(a) asks when the restriction is lifted. You explain the 5 year cooling off",
+      "but never say 2032. Q3(a)(2) asks whether 6% needs RBI approval. You give the",
+      "5% limit but never say yes. Both times the law was right and the last line",
+      "was missing. That cost you 1.5 marks.",
+      "*2.  Write the section number.",
+      "Sec 380 was cited well. But Sec 9 of the General Clauses Act, Sec 127, Sec 124,",
+      "Sec 6 and Sec 64 are all missing. Your law is right - the number proves it."
+    ]},
+    {"head": "WHERE THE MARKS ACTUALLY WENT", "gap": 10, "lines": [
+      "Q2(a) and Q3(b) cost you 6 of the 8.5 marks you lost - more than everything else.",
+      "Q2(a) asked for four differences. You described each rule separately instead, and",
+      "your Rule of Exceptional Construction does not match the model answer.",
+      "Q3(b) asked for the circumstances. You covered ambiguity well, but seven are listed.",
+      "*Read the command word: \"differences\" means a table. \"Circumstances\" means a",
+      "numbered list. Both were 5 marks of listing that you already know."
+    ]}
+  ],
+
+  "footer": "If you want to go deeper on any of this, you can connect with an SME."
+}
