@@ -332,6 +332,36 @@ def write_marks_row(spec, folder):
     return row
 
 
+# --- git auto-push ------------------------------------------------------------
+
+def git_auto_push(folder, student):
+    import subprocess
+    try:
+        # Check if git is initialized
+        res = subprocess.run(["git", "rev-parse", "--is-inside-work-tree"], capture_output=True, text=True)
+        if res.returncode != 0:
+            return  # Not a git repo, skip quietly
+            
+        csv_path = Path(__file__).resolve().parent.parent / 'marks.csv'
+        
+        # Stage the student folder and marks.csv
+        subprocess.run(["git", "add", str(folder), str(csv_path)], check=True, capture_output=True)
+        
+        # Check if there are changes to commit (git diff-index --cached --quiet HEAD)
+        diff_res = subprocess.run(["git", "diff-index", "--cached", "--quiet", "HEAD"])
+        if diff_res.returncode != 0:
+            commit_msg = f"Auto-eval: Stamped marks for {student}"
+            subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
+            # Push changes to origin
+            subprocess.run(["git", "push"], check=True, capture_output=True)
+            print(f"  Auto-pushed evaluation for {student} to GitHub.")
+        else:
+            print(f"  No changes to push for {student}.")
+            
+    except Exception as e:
+        print(f"  Warning: Git auto-push to GitHub failed: {e}")
+
+
 # --- build --------------------------------------------------------------------
 
 def build(folder):
@@ -450,6 +480,10 @@ def build(folder):
           f'({len(pages)} pages, {out.stat().st_size / 1e6:.2f} MB)')
     print(f"marks.csv: {row['series']} | {row['student']} | {row['total_marks']}/"
           f"{row['max_marks']} | review={row['flagged_for_review']} | {row['evaluated_on']}")
+    
+    # Auto-push the changes to GitHub
+    git_auto_push(folder, spec['student'])
+
     return out
 
 
