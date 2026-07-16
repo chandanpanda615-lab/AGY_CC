@@ -1,0 +1,197 @@
+{
+  "student": "Gaurish",
+  "paper": "Corporate and Other Laws  |  Master Test 01",
+  "max": 50,
+  "total": 36.5,
+  "counted": "Q2, Q4",
+  "review": false,
+
+  "mcq": {
+    "x_tick": 700,
+    "x_mark": 850,
+    "rows": [
+      {"n": 1, "y": 820,  "ok": true,  "marks": 2},
+      {"n": 2, "y": 960,  "ok": true,  "marks": 2},
+      {"n": 3, "y": 1120, "ok": true,  "marks": 2},
+      {"n": 4, "y": 1300, "ok": true,  "marks": 2},
+      {"n": 5, "y": 1680, "ok": false, "marks": 2},
+      {"n": 6, "y": 1840, "ok": true,  "marks": 2},
+      {"n": 7, "y": 2000, "ok": true,  "marks": 2},
+      {"n": 8, "y": 2160, "ok": true,  "marks": 1}
+    ]
+  },
+
+  "questions": [
+    {"q": "Q1(a)", "max": 5, "got": 1},
+    {"q": "Q1(b)", "max": 5, "got": 4.5},
+    {"q": "Q1(c)", "max": 5, "got": 1.5},
+    {"q": "Q2(a)", "max": 5, "got": 3},
+    {"q": "Q2(b)", "max": 5, "got": 5},
+    {"q": "Q4(a)", "max": 5, "got": 3.5},
+    {"q": "Q4(b)", "max": 5, "got": 5}
+  ],
+
+  "steps": [
+    {"q": "Q1(a)", "page": 1, "x": 300, "y": 3200, "marks": 1, "for": "scheme 2 - subsidiary of same holding company is related party"},
+
+    {"q": "Q1(b)", "page": 2, "x": 300, "y": 2100, "marks": 1, "for": "scheme 1 - s.16 name resembling TM proprietor complaint"},
+    {"q": "Q1(b)", "page": 3, "x": 300, "y": 700,  "marks": 0.5, "for": "scheme 2 - 3 years window correct, 3 months resolution wrong"},
+    {"q": "Q1(b)", "page": 3, "x": 300, "y": 1100, "marks": 1, "for": "scheme 3 - restriction covers registered trademark"},
+    {"q": "Q1(b)", "page": 3, "x": 300, "y": 1300, "marks": 1, "for": "scheme 4 - name identical to trademark"},
+    {"q": "Q1(b)", "page": 3, "x": 300, "y": 1700, "marks": 1, "for": "scheme 5 - window is 3 years not 2"},
+
+    {"q": "Q1(c)", "page": 4, "x": 300, "y": 900,  "marks": 0.5, "for": "scheme 1 - s.35(1) provision stated generally"},
+    {"q": "Q1(c)", "page": 4, "x": 300, "y": 1300, "marks": 0.5, "for": "scheme 2 - consent withdrawn"},
+    {"q": "Q1(c)", "page": 4, "x": 300, "y": 1600, "marks": 0.5, "for": "scheme 3 - issued without knowledge"},
+
+    {"q": "Q2(a)", "page": 4, "x": 300, "y": 3180, "marks": 1, "for": "scheme a - authorised by Articles"},
+    {"q": "Q2(a)", "page": 4, "x": 300, "y": 3380, "marks": 1, "for": "scheme b - general meeting authorization"},
+    {"q": "Q2(a)", "page": 5, "x": 300, "y": 660,  "marks": 1, "for": "scheme f - cannot be withdrawn after declaration"},
+
+    {"q": "Q2(b)", "page": 6, "x": 300, "y": 1800, "marks": 1, "for": "scheme 1 - bank loan not a deposit"},
+    {"q": "Q2(b)", "page": 6, "x": 300, "y": 2200, "marks": 1, "for": "scheme 2 - Mr Taar's contention incorrect"},
+    {"q": "Q2(b)", "page": 6, "x": 300, "y": 2800, "marks": 2, "for": "scheme 3 - Govt company 35% limit"},
+    {"q": "Q2(b)", "page": 6, "x": 300, "y": 3400, "marks": 1, "for": "scheme 4 - 25% limit incorrect"},
+
+    {"q": "Q4(a)", "page": 8, "x": 300, "y": 1100, "marks": 1, "for": "scheme 1 - s.67(2) financial assistance prohibition"},
+    {"q": "Q4(a)", "page": 8, "x": 300, "y": 2100, "marks": 1, "for": "scheme 2 - s.67(3) employee exception"},
+    {"q": "Q4(a)", "page": 8, "x": 300, "y": 3400, "marks": 0.5, "for": "scheme 3 - applied to Sohan and Subarna, partial"},
+    {"q": "Q4(a)", "page": 9, "x": 300, "y": 700,  "marks": 1, "for": "scheme 5 - conclusion remains the same"},
+
+    {"q": "Q4(b)", "page": 7, "x": 300, "y": 1000, "marks": 1, "for": "scheme 1 - Rule 2(1)(c) named"},
+    {"q": "Q4(b)", "page": 7, "x": 300, "y": 1500, "marks": 2, "for": "scheme 2 - employee security deposit rule"},
+    {"q": "Q4(b)", "page": 7, "x": 300, "y": 2850, "marks": 2, "for": "scheme 3 - exceeds salary is deposit"}
+  ],
+
+  "box": {"x1": 1500, "y1": 660, "x2": 2900, "y2": 2320},
+
+  "marks": [
+    {"page": 2, "x": 2100, "y": 300, "text": "Q1(a) = 1 / 5"},
+    {"page": 3, "x": 2100, "y": 300, "text": "Q1(b) = 4.5 / 5"},
+    {"page": 4, "x": 2100, "y": 300, "text": "Q1(c) = 1.5 / 5"},
+    {"page": 5, "x": 2100, "y": 300, "text": "Q2(a) = 3 / 5"},
+    {"page": 6, "x": 2100, "y": 300, "text": "Q2(b) = 5 / 5"},
+    {"page": 9, "x": 2100, "y": 300, "text": "Q4(a) = 3.5 / 5"},
+    {"page": 7, "x": 2100, "y": 300, "text": "Q4(b) = 5 / 5"}
+  ],
+
+  "underlines": [
+    {"page": 3, "x1": 530, "x2": 780,  "y": 2700, "for": "his \"Section 34\""},
+    {"page": 3, "x1": 350, "x2": 630,  "y": 3200, "for": "his \"Section 477\""},
+    {"page": 4, "x1": 480, "x2": 720,  "y": 2480, "for": "his \"Section 62\""},
+    {"page": 8, "x1": 660, "x2": 1080, "y": 1180, "for": "his \"financial instance\""}
+  ],
+
+  "crosses": [
+    {"page": 5, "x": 2400, "y": 2900, "for": "his wrong 25% limit for bonus shares"},
+    {"page": 9, "x": 2400, "y": 950,  "for": "his wrong statement that s.67 applies to both"}
+  ],
+
+  "remarks": [
+    {"q": "MCQ", "title": "Part I", "lines": [
+      "13 of 15. Q5 wrong, all other seven correct. On Q5 you marked (D) but the correct",
+      "answer is (C) - a Government company is not eligible to accept/renew deposits beyond",
+      "35% of paid-up share capital, free reserves, and securities premium."
+    ]},
+    {"q": "Q1(a)", "title": "Related party / wholly owned subsidiaries", "lines": [
+      "Earned: 1 mark for stating that subsidiaries of the same holding company are related",
+      "parties (clause B).",
+      "Not earned: You missed mentioning that clause (viii) does not apply to s.188 for a",
+      "private company per Notification G.S.R. 464(E). Therefore, your conclusion that they",
+      "are related parties for the purpose of s.188 was incorrect."
+    ]},
+    {"q": "Q1(b)", "title": "Company name / Trade Marks Act", "lines": [
+      "Earned: s.16 provision described generally, 3-year window for TM proprietor complaint,",
+      "name is identical to the trademark, and that the complaint is within time.",
+      "Not earned: 0.5 marks because you wrote name must be changed within 30 days of",
+      "direction (instead of 3 months) and missed that it requires an ordinary resolution.",
+      "Warning: Section 16 is not explicitly named. ROC is mentioned as directing the change",
+      "in the provision, though CG/RD is the correct authority (which you correctly named",
+      "in the conclusion)."
+    ]},
+    {"q": "Q1(c)", "title": "Expert liability for misstatement in prospectus", "lines": [
+      "Earned: Stating the general civil liability under s.35(1) (0.5 marks), expert not liable",
+      "if consent withdrawn before issue (0.5 marks), and prospectus issued without knowledge",
+      "(0.5 marks).",
+      "Not earned: No application or conclusion written for Mr. Alok. You also missed the",
+      "requirements of correct and fair representation, expert competence, and consent not",
+      "withdrawn for the third exemption.",
+      "Warning: You cite Section 34 (criminal liability) and Section 477 (which is fraud,",
+      "though the correct section is 447). Civil liability is governed by Section 35."
+    ]},
+    {"q": "Q2(a)", "title": "Bonus shares", "lines": [
+      "Earned: Pre-requisites of Articles authorization (1 mark), General Meeting approval",
+      "(1 mark), and that declared bonus shares cannot be withdrawn (1 mark).",
+      "Not earned: You did not mention other pre-requisites like no default in debt",
+      "interest/principal, no default in employee dues, and making partly paid shares fully paid.",
+      "Warning: You cite Section 62 (which is for further issue of capital) instead of Section 63.",
+      "You also wrote incorrect percentage limits (15%, 25%) that do not apply to bonus shares.",
+      "Special resolution is cited instead of ordinary resolution."
+    ]},
+    {"q": "Q2(b)", "title": "Deposits", "lines": [
+      "Earned: Part (a) in full - bank loan is not a deposit and Mr. Taar's contention is",
+      "incorrect. Part (b) in full - Government company deposit limit is 35% and the 25%",
+      "limit is incorrect.",
+      "Warning: You cite Section 2(1)(c) instead of Rule 2(1)(c) for deposit exclusions."
+    ]},
+    {"q": "Q4(a)", "title": "Financial assistance to buy own shares", "lines": [
+      "Earned: s.67(2) financial assistance prohibition (1 mark), s.67(3) employee exception",
+      "(1 mark), correct application to Sohan and Subarna (0.5 marks), and correct conclusion",
+      "that the answer remains the same in part (ii) (1 mark).",
+      "Not earned: Under part (ii), your reasoning is incorrect (stating that s.67 applies to",
+      "private companies generally).",
+      "Warning: Section 67 is not named. You wrote 'financial instance' instead of 'financial",
+      "assistance'. You missed explaining that SSPL is a deemed public company u/s 2(71)",
+      "in part (i)."
+    ]},
+    {"q": "Q4(b)", "title": "Employee security deposit", "lines": [
+      "Earned: Citing Rule 2(1)(c) (1 mark), stating the employee security deposit exemption",
+      "conditions (2 marks), and applying to Mr. Romit (2 marks) for a perfect score."
+    ]}
+  ],
+
+  "rating_total": 19.5,
+  "rating": [
+    {"name": "Introduction Competence", "score": 3.5,
+     "note": "You open with the provisions but frequently omit the exact section numbers (e.g. s.16, s.63, s.67 are missing, and wrong ones like s.34, s.477, s.62 are cited)."},
+    {"name": "Content Coverage", "score": 3.5,
+     "note": "Good coverage on the attempted chapters. Missed several step marks in Q1(a) and Q1(c) (no application for Mr. Alok was written)."},
+    {"name": "Conclusion Competence", "score": 4,
+     "note": "Most conclusions are correct, though Q1(a) has a wrong conclusion due to missing private company exemption, and Q4(a)(ii) has wrong reasoning."},
+    {"name": "Presentation & Structure", "score": 4.5,
+     "note": "Outstanding presentation. Points are clean, handwriting is neat, well-spaced, with clear Separation of Provision and Conclusion."},
+    {"name": "Language Proficiency", "score": 4,
+     "note": "Clear, correct legal terminology. Watch spelling of words like 'financial instance' (assistance), 'relivent' (relevant), and 'reciept' (receipt)."}
+  ],
+
+  "feedback": [
+    {"head": "WHAT YOU DID WELL", "lines": [
+      "Your presentation and handwriting are outstanding. The pointwise structure, clear headings,",
+      "and neat margins make your paper extremely easy to read and evaluate.",
+      "Excellent score in deposits (Q2(b) and Q4(b) both 5/5) showing thorough conceptual clarity.",
+      "Good application of s.67(3) employee exceptions in Q4(a) for Mr. Sohan and Mrs. Subarna."
+    ]},
+    {"head": "FIX THESE THREE HABITS", "lines": [
+      "*1. Quote correct section numbers.",
+      "You missed quoting Section 16 (Q1(b)), Section 63 (Q2(a), cited 62 instead), and Section 67",
+      "(Q4(a)). You also cited Section 34 and 477 instead of Section 35 and 447 (Q1(c)). Memorize the",
+      "exact section numbers as they are critical.",
+      "*2. Do not leave descriptive questions incomplete.",
+      "In Q1(c), you wrote the exemptions for expert liability but completely forgot to apply them to",
+      "Alok or write a conclusion. Always ensure you answer the specific scenario asked in the question.",
+      "*3. Double check reasoning.",
+      "In Q4(a)(ii), you concluded correctly that the answer remains the same, but wrote that Section 67",
+      "applies to private companies generally, which is incorrect. Private companies are generally exempt",
+      "unless they violate the exemption conditions (which SSPL did)."
+    ]},
+    {"head": "STRATEGY FOR NEXT EXAM", "gap": 10, "lines": [
+      "You attempted 35 marks of descriptive questions and scored 23.5 (67%).",
+      "With your strong presentation and good command of provisions, focusing on memorizing",
+      "section numbers and completing the application parts of questions will easily push you",
+      "past 40+ marks.",
+      "Excellent effort, keep it up!"
+    ]}
+  ],
+
+  "footer": "If you want to go deeper on any of this, you can connect with an SME."
+}
