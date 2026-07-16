@@ -1,0 +1,153 @@
+{
+  "student": "Akshit",
+  "paper": "Corporate and Other Laws  |  Master Test 02",
+  "max": 50,
+  "total": 37,
+  "counted": "Q2, Q3",
+  "review": false,
+
+  "mcq": {
+    "x_tick": 700,
+    "x_mark": 850,
+    "rows": [
+      {"n": 1, "y": 600,  "ok": true,  "marks": 2},
+      {"n": 2, "y": 900, "ok": true,  "marks": 2},
+      {"n": 3, "y": 1200, "ok": true,  "marks": 2},
+      {"n": 4, "y": 1600, "ok": false, "marks": 2},
+      {"n": 5, "y": 1900, "ok": true,  "marks": 2},
+      {"n": 6, "y": 2300, "ok": true,  "marks": 2},
+      {"n": 7, "y": 2800, "ok": true,  "marks": 2},
+      {"n": 8, "y": 3300, "ok": true,  "marks": 1}
+    ]
+  },
+
+  "questions": [
+    {"q": "Q1(a)", "max": 5, "got": 3},
+    {"q": "Q1(b)", "max": 5, "got": 1},
+    {"q": "Q1(c)", "max": 5, "got": 2},
+    {"q": "Q2(a)", "max": 5, "got": 4},
+    {"q": "Q2(b)", "max": 5, "got": 5},
+    {"q": "Q3(a)", "max": 5, "got": 5},
+    {"q": "Q3(b)", "max": 5, "got": 4}
+  ],
+
+  "steps": [
+    {"q": "Q1(a)", "page": 1, "x": 200, "y": 1200, "marks": 1, "for": "Section 77 duty 30 days"},
+    {"q": "Q1(a)", "page": 1, "x": 200, "y": 2700, "marks": 1, "for": "consequence priority"},
+    {"q": "Q1(a)", "page": 1, "x": 200, "y": 3000, "marks": 1, "for": "consequence liquidator"},
+
+    {"q": "Q1(b)", "page": 3, "x": 200, "y": 1200, "marks": 1, "for": "keep foreign register outside India"},
+    
+    {"q": "Q1(c)", "page": 4, "x": 200, "y": 1000, "marks": 1, "for": "Interim dividend out of profits"},
+    {"q": "Q1(c)", "page": 4, "x": 200, "y": 1900, "marks": 1, "for": "Average of 3 years"},
+
+    {"q": "Q2(a)", "page": 5, "x": 200, "y": 1300, "marks": 1, "for": "Prepare CFS"},
+    {"q": "Q2(a)", "page": 5, "x": 200, "y": 2800, "marks": 2, "for": "Exemption conditions"},
+    {"q": "Q2(a)", "page": 6, "x": 200, "y": 1500, "marks": 1, "for": "Conclusion 1"},
+
+    {"q": "Q2(b)", "page": 7, "x": 200, "y": 700, "marks": 1, "for": "Duty to register"},
+    {"q": "Q2(b)", "page": 7, "x": 200, "y": 1600, "marks": 2, "for": "Tangible/Intangible India/outside"},
+    {"q": "Q2(b)", "page": 7, "x": 200, "y": 2800, "marks": 2, "for": "Conclusion incorrect"},
+
+    {"q": "Q3(a)", "page": 8, "x": 200, "y": 700, "marks": 1, "for": "Section 100"},
+    {"q": "Q3(a)", "page": 8, "x": 200, "y": 1200, "marks": 2, "for": "Requisition 10%"},
+    {"q": "Q3(a)", "page": 8, "x": 200, "y": 3400, "marks": 1, "for": "Joint holders 12.5%"},
+    {"q": "Q3(a)", "page": 9, "x": 200, "y": 700, "marks": 1, "for": "Refusal not valid"},
+
+    {"q": "Q3(b)", "page": 9, "x": 200, "y": 1700, "marks": 1, "for": "UDA and 7 years"},
+    {"q": "Q3(b)", "page": 9, "x": 200, "y": 2400, "marks": 1, "for": "Shares to IEPF"},
+    {"q": "Q3(b)", "page": 9, "x": 200, "y": 3300, "marks": 2, "for": "Claim from IEPF and application"}
+  ],
+
+  "box": {"x1": 1500, "y1": 500, "x2": 2900, "y2": 2100},
+
+  "marks": [
+    {"page": 2, "x": 2100, "y": 500, "text": "Q1(a) = 3 / 5"},
+    {"page": 3, "x": 2100, "y": 500, "text": "Q1(b) = 1 / 5"},
+    {"page": 4, "x": 2100, "y": 500, "text": "Q1(c) = 2 / 5"},
+    {"page": 6, "x": 2100, "y": 500, "text": "Q2(a) = 4 / 5"},
+    {"page": 7, "x": 2100, "y": 500, "text": "Q2(b) = 5 / 5"},
+    {"page": 9, "x": 2100, "y": 1400, "text": "Q3(a) = 5 / 5"},
+    {"page": 9, "x": 2100, "y": 2800, "text": "Q3(b) = 4 / 5"}
+  ],
+
+  "crosses": [
+    {"page": 2, "x": 200, "y": 1700, "for": "Trigger point is limit sanctioned"},
+    {"page": 3, "x": 200, "y": 2100, "for": "15 days"},
+    {"page": 4, "x": 200, "y": 2900, "for": "doesn't need to carry forward losses"},
+    {"page": 6, "x": 200, "y": 2500, "for": "still answer Remains Same"}
+  ],
+
+  "remarks": [
+    {"q": "MCQ", "title": "Part I", "lines": [
+      "13 of 15. Q4 option is incorrect: key is B, you wrote C.",
+      "All other seven MCQs are correct and earned full marks."
+    ]},
+    {"q": "Q1(a)", "title": "Registration of charge", "lines": [
+      "Earned: 1 mark for Section 77 duty to register within 30 days.",
+      "Earned: 2 marks for stating the consequences (loss of priority, void against liquidator/creditor).",
+      "Not earned: 2 marks. The trigger point is when the charge is actually created (documentation done),",
+      "not just when the limit is sanctioned by the bank."
+    ]},
+    {"q": "Q1(b)", "title": "Foreign register", "lines": [
+      "Earned: 1 mark for stating that the company can keep a foreign register outside India.",
+      "Not earned: 4 marks. You wrote 15 days instead of the correct 30 days as per Rule 7.",
+      "Because of the wrong time limit, your final conclusion was also incorrect."
+    ]},
+    {"q": "Q1(c)", "title": "Interim dividend", "lines": [
+      "Earned: 2 marks for stating that interim dividend can be declared out of current year's profit",
+      "and mentioning the average of 3 years in case of loss.",
+      "Not earned: 3 marks. Under the third proviso, previous losses and depreciation MUST be set off.",
+      "Your conclusion that the company doesn't need to carry forward losses/depreciation is wrong."
+    ]},
+    {"q": "Q2(a)", "title": "Consolidated financial statements", "lines": [
+      "Earned: 4 marks for Section 129 requirement, listing the 3 exemption conditions,",
+      "and concluding correctly for Madan Pvt Ltd (part i).",
+      "Not earned: 1 mark for part (ii). If the company were listed, it would NOT qualify for the exemption,",
+      "because one of the conditions is that the company must be unlisted."
+    ]},
+    {"q": "Q2(b)", "title": "Charge on assets outside India", "lines": [
+      "Earned: 5 / 5 marks. Complete and accurate. You correctly noted the duty to register",
+      "on all assets (tangible or intangible, inside or outside India) and rightly concluded",
+      "that the company's claim is incorrect."
+    ]},
+    {"q": "Q3(a)", "title": "EGM Requisition", "lines": [
+      "Earned: 5 / 5 marks. Excellent presentation. Section 100, 10% voting power requirement,",
+      "and the 12.5% calculation were all perfectly stated, leading to the correct conclusion."
+    ]},
+    {"q": "Q3(b)", "title": "Unpaid Dividend Account and IEPF", "lines": [
+      "Earned: 4 marks for explaining the 7-year timeline to transfer to UDA and then IEPF,",
+      "and for advising Manish to claim via IEPF-5.",
+      "Warning: You forgot to quote Section 124. Citing the section is important for full clarity."
+    ]}
+  ],
+
+  "rating_total": 19,
+  "rating": [
+    {"name": "Introduction Competence", "score": 3.5, "note": "You often miss writing the Section numbers (like Section 124). Always cite sections."},
+    {"name": "Content Coverage", "score": 4.0, "note": "Most legal points covered well, but you missed the depreciation condition in Q1(c)."},
+    {"name": "Conclusion Competence", "score": 3.5, "note": "Good generally, but Q1(a), Q1(b), and Q1(c) conclusions had factual errors based on misremembered limits/rules."},
+    {"name": "Presentation & Structure", "score": 4.5, "note": "Excellent handwriting and clear point-wise structure."},
+    {"name": "Language Proficiency", "score": 3.5, "note": "A few grammatical slips, but legal terminology is standard."}
+  ],
+
+  "feedback": [
+    {"head": "WHAT YOU DID WELL", "lines": [
+      "Your presentation is very neat and readable. Point-wise layout is perfect.",
+      "You handled the EGM Requisition (Q3(a)) and Registration of charge (Q2(b)) brilliantly,",
+      "securing full marks."
+    ]},
+    {"head": "FIX THESE HABITS", "lines": [
+      "*1. Quote Section numbers.*",
+      "You lost out on a mark in Q3(b) for missing Section 124. Memorizing key sections helps.",
+      "*2. Be precise with timelines and provisos.*",
+      "In Q1(b), writing 15 days instead of 30 cost you heavily. In Q1(c), missing the depreciation set-off rule derailed your conclusion."
+    ]},
+    {"head": "STRATEGY FOR BETTER MARKS", "gap": 10, "lines": [
+      "Always verify all conditions before jumping to a conclusion.",
+      "For example, in Q2(a) part (ii), you missed that listing immediately disqualifies a company from the CFS exemption."
+    ]}
+  ],
+
+  "footer": "Connect with an SME if you would like to discuss this feedback in detail."
+}
