@@ -446,49 +446,6 @@
         "You explained WHY interpretation is",
         "needed. The question asked WHEN it applies."
       ]
-    },
-    {
-      "q": "FEEDBACK",
-      "title": "WHAT YOU DID WELL",
-      "page": 1,
-      "x": 100,
-      "lines": [
-        "7 of 8 MCQs correct - the strongest part of your paper.",
-        "Q1(b): seven of the eight documents under Sec 380, with the 30 days and Form FC-1.",
-        "Q1(c): both date ranges exactly right - 28 Sep to 27 Oct, and 28 Oct to 3 Nov.",
-        "Q2(b): all five grounds for winding up, and you applied Sec 6 to the facts.",
-        "*You attempted everything the paper asked and left nothing blank."
-      ]
-    },
-    {
-      "q": "FEEDBACK",
-      "title": "FIX THESE TWO HABITS",
-      "page": 1,
-      "x": 100,
-      "lines": [
-        "*1.  Answer the question that was actually asked.",
-        "Q1(a) asks when the restriction is lifted. You explain the 5 year cooling off",
-        "but never say 2032. Q3(a)(2) asks whether 6% needs RBI approval. You give the",
-        "5% limit but never say yes. Both times the law was right and the last line",
-        "was missing. That cost you 1.5 marks.",
-        "*2.  Write the section number.",
-        "Sec 380 was cited well. But Sec 9 of the General Clauses Act, Sec 127, Sec 124,",
-        "Sec 6 and Sec 64 are all missing. Your law is right - the number proves it."
-      ]
-    },
-    {
-      "q": "FEEDBACK",
-      "title": "WHERE THE MARKS ACTUALLY WENT",
-      "page": 1,
-      "x": 100,
-      "lines": [
-        "Q2(a) and Q3(b) cost you 6 of the 8.5 marks you lost - more than everything else.",
-        "Q2(a) asked for four differences. You described each rule separately instead, and",
-        "your Rule of Exceptional Construction does not match the model answer.",
-        "Q3(b) asked for the circumstances. You covered ambiguity well, but seven are listed.",
-        "*Read the command word: \"differences\" means a table. \"Circumstances\" means a",
-        "numbered list. Both were 5 marks of listing that you already know."
-      ]
     }
   ],
   "footer": "If you want to go deeper on any of this, you can connect with an SME."
