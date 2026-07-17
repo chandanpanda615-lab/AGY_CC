@@ -1,0 +1,204 @@
+{
+  "student": "Vanshika",
+  "paper": "Master Test Series 05 (Advanced Accounting)",
+  "total": 86.5,
+  "max": 114,
+  "counted": "1, 2, 3, 4, 5",
+  "mcq": {
+    "page": 16,
+    "x_tick": 400,
+    "x_mark": 500,
+    "rows": [
+      {"y": 400, "marks": 2, "ok": true},
+      {"y": 550, "marks": 2, "ok": false},
+      {"y": 700, "marks": 2, "ok": false},
+      {"y": 850, "marks": 2, "ok": true},
+      {"y": 1000, "marks": 2, "ok": false},
+      {"y": 1150, "marks": 2, "ok": true},
+      {"y": 1300, "marks": 2, "ok": true},
+      {"y": 1450, "marks": 2, "ok": true},
+      {"y": 1600, "marks": 2, "ok": true},
+      {"y": 1750, "marks": 2, "ok": true},
+      {"y": 1900, "marks": 2, "ok": true},
+      {"y": 2050, "marks": 2, "ok": true},
+      {"y": 2200, "marks": 2, "ok": true},
+      {"y": 2350, "marks": 2, "ok": true},
+      {"y": 2500, "marks": 2, "ok": true}
+    ]
+  },
+  "questions": [
+    {"q": "1(a)", "got": 5, "max": 6, "attempted": true},
+    {"q": "1(b)", "got": 3.5, "max": 6, "attempted": true},
+    {"q": "1(c)", "got": 1, "max": 2, "attempted": true},
+    {"q": "2", "got": 14, "max": 14, "attempted": true},
+    {"q": "3", "got": 14, "max": 14, "attempted": true},
+    {"q": "4(a)", "got": 8, "max": 10, "attempted": true},
+    {"q": "4(b)", "got": 3, "max": 4, "attempted": true},
+    {"q": "5(a)", "got": 10, "max": 10, "attempted": true},
+    {"q": "5(b)", "got": 4, "max": 4, "attempted": true},
+    {"q": "6(a)", "got": 0, "max": 5, "attempted": false},
+    {"q": "6(b)", "got": 0, "max": 7, "attempted": false},
+    {"q": "6(c)", "got": 0, "max": 2, "attempted": false}
+  ],
+  "steps": [
+    {"q": "1(a)", "page": 1, "x": 150, "y": 400, "marks": 2},
+    {"q": "1(a)", "page": 1, "x": 150, "y": 700, "marks": 2},
+    {"q": "1(a)", "page": 1, "x": 150, "y": 1000, "marks": 1},
+    {"q": "1(c)", "page": 2, "x": 150, "y": 300, "marks": 1},
+    {"q": "1(b)", "page": 2, "x": 150, "y": 1000, "marks": 1},
+    {"q": "1(b)", "page": 2, "x": 150, "y": 1200, "marks": 1},
+    {"q": "1(b)", "page": 2, "x": 150, "y": 1400, "marks": 1},
+    {"q": "1(b)", "page": 2, "x": 150, "y": 1600, "marks": 0.5},
+    {"q": "2", "page": 3, "x": 150, "y": 500, "marks": 0.5},
+    {"q": "2", "page": 3, "x": 150, "y": 1000, "marks": 0.5},
+    {"q": "2", "page": 4, "x": 150, "y": 400, "marks": 0.5},
+    {"q": "2", "page": 4, "x": 150, "y": 800, "marks": 0.5},
+    {"q": "2", "page": 4, "x": 150, "y": 1200, "marks": 0.5},
+    {"q": "2", "page": 4, "x": 150, "y": 1600, "marks": 1},
+    {"q": "2", "page": 5, "x": 150, "y": 400, "marks": 0.5},
+    {"q": "2", "page": 5, "x": 150, "y": 800, "marks": 1},
+    {"q": "2", "page": 5, "x": 150, "y": 1200, "marks": 1},
+    {"q": "2", "page": 5, "x": 150, "y": 1600, "marks": 1},
+    {"q": "2", "page": 5, "x": 150, "y": 2000, "marks": 1},
+    {"q": "2", "page": 6, "x": 150, "y": 400, "marks": 1},
+    {"q": "2", "page": 6, "x": 150, "y": 800, "marks": 0.5},
+    {"q": "2", "page": 6, "x": 150, "y": 1200, "marks": 0.5},
+    {"q": "2", "page": 6, "x": 150, "y": 1600, "marks": 1},
+    {"q": "2", "page": 6, "x": 150, "y": 2000, "marks": 0.5},
+    {"q": "2", "page": 7, "x": 150, "y": 400, "marks": 1},
+    {"q": "2", "page": 7, "x": 150, "y": 800, "marks": 0.5},
+    {"q": "2", "page": 7, "x": 150, "y": 1200, "marks": 1},
+    {"q": "3", "page": 8, "x": 150, "y": 800, "marks": 2},
+    {"q": "3", "page": 8, "x": 150, "y": 1600, "marks": 2},
+    {"q": "3", "page": 8, "x": 150, "y": 2400, "marks": 2},
+    {"q": "3", "page": 9, "x": 150, "y": 400, "marks": 0.5},
+    {"q": "3", "page": 9, "x": 150, "y": 1000, "marks": 1.5},
+    {"q": "3", "page": 9, "x": 150, "y": 1600, "marks": 1},
+    {"q": "3", "page": 9, "x": 150, "y": 2200, "marks": 1},
+    {"q": "3", "page": 10, "x": 150, "y": 400, "marks": 1},
+    {"q": "3", "page": 10, "x": 150, "y": 1200, "marks": 0.5},
+    {"q": "3", "page": 10, "x": 150, "y": 1800, "marks": 0.5},
+    {"q": "3", "page": 11, "x": 150, "y": 400, "marks": 0.5},
+    {"q": "3", "page": 11, "x": 150, "y": 1000, "marks": 0.5},
+    {"q": "3", "page": 11, "x": 150, "y": 1600, "marks": 0.5},
+    {"q": "3", "page": 11, "x": 150, "y": 2200, "marks": 0.5},
+    {"q": "4(a)", "page": 12, "x": 150, "y": 800, "marks": 2},
+    {"q": "4(a)", "page": 12, "x": 150, "y": 1200, "marks": 2},
+    {"q": "4(a)", "page": 12, "x": 150, "y": 1600, "marks": 2},
+    {"q": "4(a)", "page": 12, "x": 150, "y": 2000, "marks": 2},
+    {"q": "4(b)", "page": 13, "x": 150, "y": 400, "marks": 1},
+    {"q": "4(b)", "page": 13, "x": 150, "y": 1600, "marks": 1},
+    {"q": "4(b)", "page": 14, "x": 150, "y": 400, "marks": 1},
+    {"q": "5(a)", "page": 14, "x": 150, "y": 1600, "marks": 2.5},
+    {"q": "5(a)", "page": 14, "x": 150, "y": 2400, "marks": 2.5},
+    {"q": "5(a)", "page": 15, "x": 150, "y": 400, "marks": 2.5},
+    {"q": "5(a)", "page": 15, "x": 150, "y": 1200, "marks": 2.5},
+    {"q": "5(b)", "page": 15, "x": 150, "y": 1800, "marks": 2},
+    {"q": "5(b)", "page": 15, "x": 150, "y": 2600, "marks": 2}
+  ],
+  "marks": [
+    {"page": 1, "text": "Q1(a) = 5 / 6", "x": 2200, "y": 150},
+    {"page": 2, "text": "Q1(c) = 1 / 2", "x": 2200, "y": 150},
+    {"page": 1, "text": "Q1(b) = 3.5 / 6", "x": 2200, "y": 800},
+    {"page": 7, "text": "Q2 = 14 / 14", "x": 2200, "y": 150},
+    {"page": 11, "text": "Q3 = 14 / 14", "x": 2200, "y": 150},
+    {"page": 12, "text": "Q4(a) = 8 / 10", "x": 2200, "y": 150},
+    {"page": 14, "text": "Q4(b) = 3 / 4", "x": 2200, "y": 150},
+    {"page": 15, "text": "Q5(a) = 10 / 10", "x": 2200, "y": 150},
+    {"page": 15, "text": "Q5(b) = 4 / 4", "x": 2200, "y": 3500}
+  ],
+  "remarks": [
+    {
+      "q": "1(a)",
+      "lines": [
+        "Major fire correctly treated as non-adjusting event.",
+        "Negotiation for acquisition correctly treated as non-adjusting event.",
+        "Foreign exchange loss correctly identified as non-adjusting event.",
+        "However, you missed that foreign exchange loss requires disclosure."
+      ]
+    },
+    {
+      "q": "1(b)",
+      "lines": [
+        "Correctly noted January interest is nil.",
+        "Correctly calculated February interest on actual overdraft.",
+        "Correctly calculated December interest.",
+        "However, you missed the calculation of October and November interest.",
+        "The total interest capitalized is incorrect."
+      ]
+    },
+    {
+      "q": "1(c)",
+      "lines": [
+        "Correct calculation of closing stock excluding damaged goods.",
+        "However, you stated it should not be treated as extraordinary item.",
+        "According to the marking scheme, it should be classified as an extra-ordinary item."
+      ]
+    },
+    {
+      "q": "2",
+      "lines": [
+        "Excellent attempt. All journal entries and notes to accounts are correct.",
+        "All calculations and workings are accurate."
+      ]
+    },
+    {
+      "q": "3",
+      "lines": [
+        "Excellent attempt. Consolidated Balance Sheet is accurate.",
+        "Working notes and Notes to Accounts are well presented and correct."
+      ]
+    },
+    {
+      "q": "4(a)",
+      "lines": [
+        "Operating profit and Net cash flow from operating activities are correct.",
+        "However, your calculation for Net cash from investing activities is incorrect.",
+        "Your calculation for Net cash used in financing activities is also incorrect."
+      ]
+    },
+    {
+      "q": "4(b)",
+      "lines": [
+        "Correctly identified current year profit available and amount to be utilized.",
+        "Correctly checked Condition II and Condition III for maximum withdrawal and minimum balance.",
+        "However, you completely skipped checking Condition I (dividend rate vs average of past 3 years)."
+      ]
+    },
+    {
+      "q": "5(a)",
+      "lines": [
+        "Excellent attempt. Branch Stock, Branch Adjustment, Branch Debtors and Branch P&L A/c are correct."
+      ]
+    },
+    {
+      "q": "5(b)",
+      "lines": [
+        "Excellent attempt. Gain from curtailment and liability to be recognized are calculated correctly."
+      ]
+    },
+    {
+      "q": "6(a)",
+      "lines": ["Try to attempt all parts of the question."]
+    },
+    {
+      "q": "6(b)",
+      "lines": ["Try to attempt all parts of the question."]
+    },
+    {
+      "q": "6(c)",
+      "lines": ["Try to attempt all parts of the question."]
+    },
+    {
+      "q": "MCQ",
+      "lines": ["You scored 24 out of 30 in Part A (MCQ). Good job, review the ones you missed."]
+    }
+  ],
+  "box": {
+    "x1": 200,
+    "y1": 200,
+    "x2": 1500,
+    "y2": 1800
+  },
+  "review": false
+}
