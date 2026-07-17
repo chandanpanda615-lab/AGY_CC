@@ -1,35 +1,14 @@
-# Prachi
-**Total:** 51.5 / 100
-**Counted:** Q1, Q2, Q3, Q4, Q5
+# Evaluation
+
+## Remarks
+- **MCQ**: 6 / 30 marks. Part (a): only iv is correct. Part (b): iii and iv are correct. Parts (c) and (d) are incorrect.
+- **1(a)**: 6 / 6 marks. Correctly identified and explained all three events as non-adjusting.
+- **1(b)**: 0 / 6 marks. Table drawn but no computations. Borrowing costs are not suspended during substantial technical work.
+- **1(c)**: 0 / 2 marks. Missed classifying as extra-ordinary. Incorrect calculation (1,42,000 instead of 1,46,000).
+- **Q2**: 7.5 / 14 marks. Good start with initial conversion and settlement entries. Missed debenture issuance entry and miscalculated Mr. X settlement and final CR write-off.
+- **Q3**: 11.0 / 14 marks. Good consolidation structure. Missed analysis of Clear Ltd's profit, resulting in wrong R&S and P&L.
+- **Q4**: 14 / 14 marks. Cash flow statement and dividend withdrawal conditions fully correct. (4a was capped at 10 max).
+- **Q5**: 12 / 14 marks. Branch accounts perfectly prepared. Curtailment gain calculation missed, but liability recognized correctly.
 
 ## Evaluator Comment
-Good attempt, Prachi. You scored 51.5/100. Your Cash Flow Statement and Buy Back question (Q4) was excellent and perfectly solved. However, your performance in MCQs was very poor (6/30), which significantly affected your overall score. In descriptive questions, pay close attention to calculations (e.g., Consolidated P&L addition error in Q3, Branch Adjustment gross profit in Q5) and ensure all parts of the question are attempted properly. Review AS-4 and AS-5 thoroughly.
-
-## MCQ
-**6 / 30**
-Earned: 1(a)(iv), 1(b)(iii), 1(b)(iv).
-Not earned: All others wrong. You scored 6/30 on MCQs which is very poor.
-
-## Q1
-**3 / 14**
-Earned: 1(a) identified the events as non-adjusting.
-Not earned: 1(a) disclosure is required in the Approving Authority's report (Board's report), not notes to accounts. 1(b) borrowing cost calculation not attempted. 1(c) closing stock value 1,46,000 (you got 1,42,000) and failed to state classification as extra-ordinary.
-
-## Q2
-**7 / 14**
-Earned: Entries for bank to eq share, pref to CR, dividend settlement, tax, inventory write off.
-Not earned: You got the debenture settlement to Mr. X wrong (162,500 instead of 182,500). Also entry for Bank Overdraft was wrong (you credited debentures instead of Bank A/c). Finally, you missed Inventory write off of 20,000 in the final Capital Reduction entry.
-
-## Q3
-**11 / 14**
-Earned: Share Capital, Minority Interest, Non-current and current liabilities, PPE, Goodwill, Notes.
-Not earned: You made an addition error in Consolidated P&L calculation (1025000 + 431250 - 30000 = 1426250, but you wrote 1486250). Trade Receivables calculation was also wrong.
-
-## Q4
-**14 / 14**
-Earned: Full marks! Cash Flow Statement was perfectly calculated for all three activities. Buy-back conditions clearly verified and satisfied.
-
-## Q5
-**10.5 / 14**
-Earned: 5(a) Branch Stock A/c, Debtors A/c correct. 5(b) Liability to be recognised correctly calculated.
-Not earned: 5(a) Branch Adjustment A/c had balancing error leading to wrong Gross Profit (12,000 instead of 51,200). 5(b) You missed calculating the Gain from curtailment (582) separately.
+Good effort. Your branch accounts and cash flow statements are very strong. Work on consolidation (pre/post acquisition profit analysis) and internal reconstruction (carefully following all terms of settlement).
