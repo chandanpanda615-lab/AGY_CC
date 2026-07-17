@@ -2,101 +2,516 @@
   "student": "Vanshika",
   "paper": "Advanced Accounting",
   "total": 79,
-  "max": 100,
+  "max": 108,
   "counted": "1, 2, 3, 4, 5",
   "mcq": {
     "page": 16,
     "x_tick": 2400,
     "x_mark": 2550,
     "rows": [
-      {"ok": true, "marks": 2, "y": 400},
-      {"ok": false, "marks": 0, "y": 500},
-      {"ok": false, "marks": 0, "y": 600},
-      {"ok": true, "marks": 2, "y": 700},
-      {"ok": false, "marks": 0, "y": 800},
-      {"ok": true, "marks": 2, "y": 900},
-      {"ok": true, "marks": 2, "y": 1000},
-      {"ok": true, "marks": 2, "y": 1100},
-      {"ok": true, "marks": 2, "y": 1200},
-      {"ok": true, "marks": 2, "y": 1300},
-      {"ok": true, "marks": 2, "y": 1400},
-      {"ok": true, "marks": 2, "y": 1500},
-      {"ok": true, "marks": 2, "y": 1600},
-      {"ok": true, "marks": 2, "y": 1700},
-      {"ok": true, "marks": 2, "y": 1800}
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1000,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": false,
+        "marks": 0,
+        "y": 1150,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": false,
+        "marks": 0,
+        "y": 1300,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1450,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": false,
+        "marks": 0,
+        "y": 1600,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1000,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1150,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1300,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1450,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1600,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1000,
+        "x_tick": 2100,
+        "x_score": 2300
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1150,
+        "x_tick": 2100,
+        "x_score": 2300
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1300,
+        "x_tick": 2100,
+        "x_score": 2300
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1450,
+        "x_tick": 2100,
+        "x_score": 2300
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1600,
+        "x_tick": 2100,
+        "x_score": 2300
+      }
     ]
   },
   "box": {
-    "x1": 500,
-    "y1": 2000,
-    "x2": 2500,
-    "y2": 3300
+    "x1": 200,
+    "y1": 2200,
+    "x2": 1500,
+    "y2": 3200
   },
   "questions": [
-    {"q": "Q1", "got": 0, "max": 14, "attempted": true},
-    {"q": "Q2", "got": 14, "max": 14},
-    {"q": "Q3", "got": 14, "max": 14},
-    {"q": "Q4", "got": 13, "max": 14},
-    {"q": "Q5", "got": 14, "max": 14},
-    {"q": "Q6", "got": 0, "max": 14, "attempted": false}
+    {
+      "q": "Q1",
+      "got": 0,
+      "max": 14,
+      "attempted": true
+    },
+    {
+      "q": "Q2",
+      "got": 14,
+      "max": 14
+    },
+    {
+      "q": "Q3",
+      "got": 14,
+      "max": 14
+    },
+    {
+      "q": "Q4",
+      "got": 13,
+      "max": 14
+    },
+    {
+      "q": "Q5",
+      "got": 14,
+      "max": 14
+    },
+    {
+      "q": "Q6",
+      "got": 0,
+      "max": 14,
+      "attempted": false
+    }
   ],
   "steps": [
-    {"page": 1, "q": "Q2", "marks": 0.5, "x": 2700, "y": 1400},
-    {"page": 1, "q": "Q2", "marks": 0.5, "x": 2700, "y": 1800},
-    {"page": 1, "q": "Q2", "marks": 0.5, "x": 2700, "y": 2300},
-    {"page": 1, "q": "Q2", "marks": 0.5, "x": 2700, "y": 2600},
-    {"page": 1, "q": "Q2", "marks": 0.5, "x": 2700, "y": 2900},
-    {"page": 2, "q": "Q2", "marks": 1, "x": 2700, "y": 800},
-    {"page": 2, "q": "Q2", "marks": 0.5, "x": 2700, "y": 1200},
-    {"page": 2, "q": "Q2", "marks": 1, "x": 2700, "y": 1700},
-    {"page": 3, "q": "Q2", "marks": 1, "x": 2700, "y": 700},
-    {"page": 3, "q": "Q2", "marks": 1, "x": 2700, "y": 1300},
-    {"page": 3, "q": "Q2", "marks": 1, "x": 2700, "y": 1800},
-    {"page": 4, "q": "Q2", "marks": 1, "x": 2700, "y": 1200},
-    {"page": 4, "q": "Q2", "marks": 0.5, "x": 2700, "y": 1600},
-    {"page": 4, "q": "Q2", "marks": 0.5, "x": 2700, "y": 2000},
-    {"page": 4, "q": "Q2", "marks": 0.5, "x": 2700, "y": 2400},
-    {"page": 5, "q": "Q2", "marks": 0.5, "x": 2700, "y": 900},
-    {"page": 5, "q": "Q2", "marks": 0.5, "x": 2700, "y": 1800},
-    {"page": 5, "q": "Q2", "marks": 1, "x": 2700, "y": 2700},
-    {"page": 6, "q": "Q2", "marks": 1, "x": 2700, "y": 1600},
-    {"page": 6, "q": "Q2", "marks": 0.5, "x": 2700, "y": 2300},
-
-    {"page": 7, "q": "Q3", "marks": 1.5, "x": 2700, "y": 1200},
-    {"page": 7, "q": "Q3", "marks": 1.5, "x": 2700, "y": 2000},
-    {"page": 7, "q": "Q3", "marks": 2, "x": 2700, "y": 2800},
-    {"page": 8, "q": "Q3", "marks": 0.5, "x": 2700, "y": 800},
-    {"page": 8, "q": "Q3", "marks": 1, "x": 2700, "y": 1400},
-    {"page": 8, "q": "Q3", "marks": 1, "x": 2700, "y": 2200},
-    {"page": 8, "q": "Q3", "marks": 1.5, "x": 2700, "y": 2900},
-    {"page": 9, "q": "Q3", "marks": 1, "x": 2700, "y": 1100},
-    {"page": 9, "q": "Q3", "marks": 0.5, "x": 2700, "y": 1600},
-    {"page": 9, "q": "Q3", "marks": 0.5, "x": 2700, "y": 2200},
-    {"page": 9, "q": "Q3", "marks": 0.5, "x": 2700, "y": 2600},
-    {"page": 9, "q": "Q3", "marks": 0.5, "x": 2700, "y": 3100},
-    {"page": 10, "q": "Q3", "marks": 1, "x": 2700, "y": 1400},
-    {"page": 10, "q": "Q3", "marks": 0.5, "x": 2700, "y": 2200},
-    {"page": 10, "q": "Q3", "marks": 0.5, "x": 2700, "y": 2700},
-
-    {"page": 11, "q": "Q4", "marks": 4, "x": 2700, "y": 1400},
-    {"page": 11, "q": "Q4", "marks": 4, "x": 2700, "y": 2500},
-    {"page": 11, "q": "Q4", "marks": 2, "x": 2700, "y": 3000},
-    {"page": 12, "q": "Q4", "marks": 1, "x": 2700, "y": 2200},
-    {"page": 12, "q": "Q4", "marks": 1, "x": 2700, "y": 3200},
-    {"page": 13, "q": "Q4", "marks": 1, "x": 2700, "y": 1200},
-
-    {"page": 13, "q": "Q5", "marks": 2.5, "x": 2700, "y": 2600},
-    {"page": 14, "q": "Q5", "marks": 2.5, "x": 2700, "y": 700},
-    {"page": 14, "q": "Q5", "marks": 2.5, "x": 2700, "y": 1300},
-    {"page": 14, "q": "Q5", "marks": 2.5, "x": 2700, "y": 2100},
-    {"page": 15, "q": "Q5", "marks": 2, "x": 2700, "y": 700},
-    {"page": 15, "q": "Q5", "marks": 2, "x": 2700, "y": 1900}
+    {
+      "page": 1,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 1400
+    },
+    {
+      "page": 1,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 1800
+    },
+    {
+      "page": 1,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1300,
+      "y": 2300
+    },
+    {
+      "page": 1,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 2600
+    },
+    {
+      "page": 1,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1300,
+      "y": 2900
+    },
+    {
+      "page": 2,
+      "q": "Q2",
+      "marks": 1,
+      "x": 1200,
+      "y": 800
+    },
+    {
+      "page": 2,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 1200
+    },
+    {
+      "page": 2,
+      "q": "Q2",
+      "marks": 1,
+      "x": 1300,
+      "y": 1700
+    },
+    {
+      "page": 3,
+      "q": "Q2",
+      "marks": 1,
+      "x": 1300,
+      "y": 700
+    },
+    {
+      "page": 3,
+      "q": "Q2",
+      "marks": 1,
+      "x": 1300,
+      "y": 1300
+    },
+    {
+      "page": 3,
+      "q": "Q2",
+      "marks": 1,
+      "x": 1200,
+      "y": 1800
+    },
+    {
+      "page": 4,
+      "q": "Q2",
+      "marks": 1,
+      "x": 1200,
+      "y": 1200
+    },
+    {
+      "page": 4,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 1600
+    },
+    {
+      "page": 4,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 2000
+    },
+    {
+      "page": 4,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 2400
+    },
+    {
+      "page": 5,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1300,
+      "y": 900
+    },
+    {
+      "page": 5,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 1800
+    },
+    {
+      "page": 5,
+      "q": "Q2",
+      "marks": 1,
+      "x": 1300,
+      "y": 2700
+    },
+    {
+      "page": 6,
+      "q": "Q2",
+      "marks": 1,
+      "x": 1200,
+      "y": 1600
+    },
+    {
+      "page": 6,
+      "q": "Q2",
+      "marks": 0.5,
+      "x": 1300,
+      "y": 2300
+    },
+    {
+      "page": 7,
+      "q": "Q3",
+      "marks": 1.5,
+      "x": 1200,
+      "y": 1200
+    },
+    {
+      "page": 7,
+      "q": "Q3",
+      "marks": 1.5,
+      "x": 1200,
+      "y": 2000
+    },
+    {
+      "page": 7,
+      "q": "Q3",
+      "marks": 2,
+      "x": 1200,
+      "y": 2800
+    },
+    {
+      "page": 8,
+      "q": "Q3",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 800
+    },
+    {
+      "page": 8,
+      "q": "Q3",
+      "marks": 1,
+      "x": 1200,
+      "y": 1400
+    },
+    {
+      "page": 8,
+      "q": "Q3",
+      "marks": 1,
+      "x": 1200,
+      "y": 2200
+    },
+    {
+      "page": 8,
+      "q": "Q3",
+      "marks": 1.5,
+      "x": 1300,
+      "y": 2900
+    },
+    {
+      "page": 9,
+      "q": "Q3",
+      "marks": 1,
+      "x": 1300,
+      "y": 1100
+    },
+    {
+      "page": 9,
+      "q": "Q3",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 1600
+    },
+    {
+      "page": 9,
+      "q": "Q3",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 2200
+    },
+    {
+      "page": 9,
+      "q": "Q3",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 2600
+    },
+    {
+      "page": 9,
+      "q": "Q3",
+      "marks": 0.5,
+      "x": 1300,
+      "y": 3100
+    },
+    {
+      "page": 10,
+      "q": "Q3",
+      "marks": 1,
+      "x": 1200,
+      "y": 1400
+    },
+    {
+      "page": 10,
+      "q": "Q3",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 2200
+    },
+    {
+      "page": 10,
+      "q": "Q3",
+      "marks": 0.5,
+      "x": 1300,
+      "y": 2700
+    },
+    {
+      "page": 11,
+      "q": "Q4",
+      "marks": 4,
+      "x": 1200,
+      "y": 1400
+    },
+    {
+      "page": 11,
+      "q": "Q4",
+      "marks": 4,
+      "x": 1300,
+      "y": 2500
+    },
+    {
+      "page": 11,
+      "q": "Q4",
+      "marks": 2,
+      "x": 1200,
+      "y": 3000
+    },
+    {
+      "page": 12,
+      "q": "Q4",
+      "marks": 1,
+      "x": 1200,
+      "y": 2200
+    },
+    {
+      "page": 12,
+      "q": "Q4",
+      "marks": 1,
+      "x": 1200,
+      "y": 3200
+    },
+    {
+      "page": 13,
+      "q": "Q4",
+      "marks": 1,
+      "x": 1200,
+      "y": 1200
+    },
+    {
+      "page": 13,
+      "q": "Q5",
+      "marks": 2.5,
+      "x": 1200,
+      "y": 2600
+    },
+    {
+      "page": 14,
+      "q": "Q5",
+      "marks": 2.5,
+      "x": 1300,
+      "y": 700
+    },
+    {
+      "page": 14,
+      "q": "Q5",
+      "marks": 2.5,
+      "x": 1300,
+      "y": 1300
+    },
+    {
+      "page": 14,
+      "q": "Q5",
+      "marks": 2.5,
+      "x": 1300,
+      "y": 2100
+    },
+    {
+      "page": 15,
+      "q": "Q5",
+      "marks": 2,
+      "x": 1300,
+      "y": 700
+    },
+    {
+      "page": 15,
+      "q": "Q5",
+      "marks": 2,
+      "x": 1300,
+      "y": 1900
+    }
   ],
   "marks": [
-    {"page": 6, "text": "Q2 = 14 / 14", "x": 2200, "y": 3000},
-    {"page": 10, "text": "Q3 = 14 / 14", "x": 2200, "y": 3500},
-    {"page": 13, "text": "Q4 = 13 / 14", "x": 2200, "y": 1700},
-    {"page": 15, "text": "Q5 = 14 / 14", "x": 2200, "y": 2500}
+    {
+      "page": 6,
+      "text": "Q2 = 14 / 14",
+      "x": 2200,
+      "y": 3000
+    },
+    {
+      "page": 10,
+      "text": "Q3 = 14 / 14",
+      "x": 2200,
+      "y": 3500
+    },
+    {
+      "page": 13,
+      "text": "Q4 = 13 / 14",
+      "x": 2200,
+      "y": 1700
+    },
+    {
+      "page": 15,
+      "text": "Q5 = 14 / 14",
+      "x": 2200,
+      "y": 2500
+    }
   ],
   "remarks": [
     {
@@ -105,7 +520,8 @@
       "x": 200,
       "lines": [
         "Try to attempt all parts of the question."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "Q2",
@@ -114,7 +530,8 @@
       "lines": [
         "Excellent execution. All journal entries and working notes are perfectly accurate.",
         "Full marks awarded for correct Capital Reduction account and Balance Sheet notes."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "Q3",
@@ -123,7 +540,8 @@
       "lines": [
         "Perfect consolidated balance sheet and correct computation of Minority Interest and Goodwill.",
         "Analysis of profit of Clear Ltd is correctly classified."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "Q4",
@@ -133,7 +551,8 @@
         "Part (a): Cash Flow statement is correct, marks capped at 10 as per the scheme.",
         "Part (b): You missed checking Condition I (average rate of dividend for last 3 years).",
         "Conditions II and III were correctly verified. Lost 1 mark for the missing condition."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "Q5",
@@ -142,6 +561,27 @@
       "lines": [
         "Part (a): Branch Stock, Branch Adjustment, Branch Debtors and P&L perfectly prepared.",
         "Part (b): Accurate calculation of gain from curtailment and liability to be recognized."
+      ],
+      "y": 3000
+    },
+    {
+      "q": "MCQ",
+      "title": "Part I (MCQ)",
+      "page": 1,
+      "x": 1700,
+      "y": 2200,
+      "lines": [
+        "Evaluated 24 marks for MCQs."
+      ]
+    },
+    {
+      "q": "Q6",
+      "title": "Question 6",
+      "page": 1,
+      "x": 200,
+      "y": 3000,
+      "lines": [
+        "Evaluated Q6."
       ]
     }
   ],
