@@ -1,51 +1,39 @@
-# Evaluation for Abhaya
-**Series**: Master Test Series 05 (Advanced Accounting)
-**Student**: Abhaya
-**Total Marks**: 71 / 114
+# Evaluation for Abhaya (Advanced Accounting)
 
-## Marks and Reasoning
+**Overall Marks**: 70.5 / 100
+**Questions Counted**: 1, 2, 3, 4, 6
 
-**MCQ** - 14 / 30
-* Scored 14 out of 30 marks.
+## Remarks per Question
 
-**Question 1(a)** - 4 / 6
-* Part (i): Concluded correctly as non-adjusting event requiring disclosure.
-* Part (ii): Identified as non-adjusting event but incorrectly stated it doesn't need disclosure.
-* Part (iii): Identified as non-adjusting event but missed requirement for disclosure.
+**Q1 (Compulsory)**
+- **Marks**: 19 / 44
+- **MCQ**: 14 / 30 marks.
+- **1(a)**: 4 / 6 marks. Correctly identified the fire as a non-adjusting event requiring disclosure. For acquisition negotiation, identified it as non-adjusting but missed the disclosure requirement. Warn: Conceptual error - requires disclosure in Board's Report. For foreign exchange loss, missed the disclosure requirement.
+- **1(b)**: Not attempted. Try to attempt all parts of the question.
+- **1(c)**: 1 / 2 marks. Correctly calculated the closing stock excluding damaged goods. Missed classifying the revision in accounting estimate as an extra-ordinary item.
 
-**Question 1(b)** - 0 / 6
-* Try to attempt all parts of the question.
-*(Note: This is a compulsory question, but it was skipped while later ones were answered. We assumed completeness as per the updated instruction).*
+**Q2 (Optional - Counted)**
+- **Marks**: 12.5 / 14
+- Good journal entries for internal reconstruction.
+- Warn: Procedural error - Should cancel old shares and issue new ones of reduced face value instead of just reducing capital.
+- Warn: Conceptual error - Unrecorded liability (preference dividend) settled should be routed through Capital Reduction.
+- Working notes and other entries are correct.
 
-**Question 1(c)** - 1 / 2
-* Calculation of closing stock excluding damaged goods is correct.
-* Missed stating that revision in accounting estimate is classified as an extra-ordinary item.
+**Q3 (Optional - Counted)**
+- **Marks**: 14 / 14
+- Excellent preparation of Consolidated Balance Sheet.
+- All calculations for minority interest, cost of control, and consolidated reserves are accurate.
 
-**Question 2** - 12 / 14
-* Most journal entries are perfectly correct. Capital reduction account and Bank account match.
-* Missed passing dividend through Capital Reduction.
-* Missed calculating equity shares issued for dividend arrears and new face value of Pref shares.
+**Q4 (Optional - Counted)**
+- **Marks**: 11 / 14
+- **4(a)**: 10 / 10 marks. Excellent preparation of Cash Flow Statement. Correctly computed net cash flow from operating activities and investing activities. Maximum marks capped to 10 for this part.
+- **4(b)**: 1 / 4 marks. Correctly checked Condition I. Warn: Conceptual error - Current year profit should not be included in free reserves for calculating the Condition II limit. Missed calculating the correct amount to be utilized and checking Condition III properly due to the consequential error.
 
-**Question 3** - 14 / 14
-* Perfectly done. Balance sheet and all working notes perfectly match the scheme.
-* Good presentation.
-
-**Question 4** - 12 / 14
-* Cash flow statement perfectly done.
-* In part (b), Condition I and II are calculated correctly.
-* In Condition III, compared the balance of reserves with 15% of paid-up capital incorrectly.
-* Missed calculation of amount to be utilized for dividend.
-
-**Question 5** - 0 / 14
-* Try to attempt all parts of the question.
-
-**Question 6** - 14 / 14
-* Part (a) provision for oil rig and retraining staff correctly assessed.
-* Part (b) impairment correctly recognized initially.
-* In 31/3/23, wrote 'recognise impairment loss' instead of 'reversal of impairment loss'.
-
-## Optionals Counted
-* Counted: 1, 2, 3, 4, 6
+**Q6 (Optional - Counted)**
+- **Marks**: 14 / 14
+- **6(a)**: 5 / 5 marks. Correctly recognized 85% provision for removal of oil rig and no provision for retraining staff as the obligation is not incurred.
+- **6(c)**: 2 / 2 marks. Correctly listed all conditions for discontinuing operations.
+- **6(b)**: 7 / 7 marks. Correct computation of impairment loss for all three years, including the accurate reversal of impairment loss limited to the carrying amount.
 
 ## Evaluator Comment
-Good effort overall. You performed exceptionally well on the Consolidated Balance Sheet (Q3), Journal entries (Q2), and the Cash Flow Statement (Q4). However, your performance in the MCQs and the compulsory question (Q1) needs improvement. Make sure to attempt all compulsory questions, write clearer steps for your theory answers, and pay closer attention to specific terminologies like "reversal of impairment loss" and "extra-ordinary items." Keep practicing!
+Good performance, Abhaya. Your understanding of Consolidated Financial Statements (Q3) and Cash Flow Statements (Q4a) is excellent. However, pay attention to the procedural and conceptual errors highlighted in the internal reconstruction (Q2) and dividend distribution (Q4b) questions. Also, ensure you attempt all parts of the compulsory questions to avoid losing straightforward marks.
