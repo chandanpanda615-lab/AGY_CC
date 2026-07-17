@@ -1,0 +1,234 @@
+{
+  "student": "Prince",
+  "paper": "Advanced Accounting | Master Test 05",
+  "max": 100,
+  "total": 70,
+  "counted": "Q2, Q3, Q4, Q6",
+  "review": false,
+  "mcq": {
+    "x_tick": 800,
+    "x_mark": 1000,
+    "rows": [
+      { "n": 1, "y": 400, "ok": true, "marks": 2 },
+      { "n": 2, "y": 550, "ok": true, "marks": 2 },
+      { "n": 3, "y": 700, "ok": true, "marks": 2 },
+      { "n": 4, "y": 850, "ok": true, "marks": 2 },
+      { "n": 5, "y": 1000, "ok": false, "marks": 2 },
+      { "n": 6, "y": 1150, "ok": false, "marks": 2 },
+      { "n": 7, "y": 1300, "ok": true, "marks": 2 },
+      { "n": 8, "y": 1450, "ok": true, "marks": 2 },
+      { "n": 9, "y": 1600, "ok": false, "marks": 2 },
+      { "n": 10, "y": 1750, "ok": true, "marks": 2 },
+      { "n": 11, "y": 1900, "ok": true, "marks": 2 },
+      { "n": 12, "y": 2050, "ok": false, "marks": 2 },
+      { "n": 13, "y": 2200, "ok": true, "marks": 2 },
+      { "n": 14, "y": 2350, "ok": true, "marks": 2 },
+      { "n": 15, "y": 2500, "ok": true, "marks": 2 }
+    ]
+  },
+  "questions": [
+    { "q": "Q1(a)", "max": 6, "got": 3 },
+    { "q": "Q1(b)", "max": 6, "got": 2 },
+    { "q": "Q1(c)", "max": 2, "got": 0 },
+    { "q": "Q1(d)", "max": 0, "got": 0 },
+    { "q": "Q2", "max": 14, "got": 5 },
+    { "q": "Q3", "max": 14, "got": 13 },
+    { "q": "Q4(a)", "max": 10, "got": 10 },
+    { "q": "Q4(b)", "max": 4, "got": 4 },
+    { "q": "Q6(a)", "max": 5, "got": 2.5 },
+    { "q": "Q6(b)", "max": 7, "got": 7 },
+    { "q": "Q6(c)", "max": 2, "got": 1.5 }
+  ],
+  "steps": [
+    { "q": "Q2", "page": 2, "x": 180, "y": 600, "marks": 0.5, "for": "Bank to Equity Share Capital" },
+    { "q": "Q2", "page": 2, "x": 180, "y": 900, "marks": 0.5, "for": "Equity to Equity and Cap Red" },
+    { "q": "Q2", "page": 2, "x": 180, "y": 1300, "marks": 0.5, "for": "Pref to Pref and Cap Red" },
+    { "q": "Q2", "page": 2, "x": 180, "y": 2200, "marks": 1.5, "for": "Deb, TrPay, Int, Bank to Mr X" },
+    { "q": "Q2", "page": 2, "x": 180, "y": 3200, "marks": 1.0, "for": "10% Deb, Int to Pref and Cap Red" },
+    { "q": "Q2", "page": 3, "x": 180, "y": 1800, "marks": 1.0, "for": "Cap Red to Prov for DD, Plant & Mach" },
+    { "q": "Q3", "page": 4, "x": 180, "y": 800, "marks": 1.0, "for": "Cost of Control (Goodwill)" },
+    { "q": "Q3", "page": 4, "x": 180, "y": 1200, "marks": 1.0, "for": "Minority Interest" },
+    { "q": "Q3", "page": 4, "x": 180, "y": 1800, "marks": 1.5, "for": "Reserves & Surplus calc" },
+    { "q": "Q3", "page": 4, "x": 180, "y": 2300, "marks": 0.5, "for": "Inventory calc" },
+    { "q": "Q3", "page": 4, "x": 180, "y": 3000, "marks": 0.5, "for": "Trade Payable calc" },
+    { "q": "Q3", "page": 4, "x": 180, "y": 3500, "marks": 0.5, "for": "Trade Receivable calc" },
+    { "q": "Q3", "page": 5, "x": 180, "y": 1000, "marks": 2.5, "for": "Equity & Liabilities" },
+    { "q": "Q3", "page": 5, "x": 180, "y": 1800, "marks": 2.5, "for": "Non-current & Current Liab" },
+    { "q": "Q3", "page": 5, "x": 180, "y": 2500, "marks": 2.5, "for": "Assets" },
+    { "q": "Q3", "page": 5, "x": 180, "y": 3000, "marks": 0.5, "for": "Share Capital note" },
+    { "q": "Q4(a)", "page": 7, "x": 180, "y": 1000, "marks": 3.0, "for": "Operating profit before WC (capped)" },
+    { "q": "Q4(a)", "page": 7, "x": 180, "y": 1800, "marks": 3.0, "for": "Operating cash flow (capped)" },
+    { "q": "Q4(a)", "page": 7, "x": 180, "y": 2500, "marks": 2.0, "for": "Investing cash flow" },
+    { "q": "Q4(a)", "page": 7, "x": 180, "y": 3500, "marks": 2.0, "for": "Financing cash flow (capped)" },
+    { "q": "Q4(b)", "page": 8, "x": 180, "y": 1000, "marks": 1.0, "for": "Profit available/amount utilized" },
+    { "q": "Q4(b)", "page": 8, "x": 180, "y": 1300, "marks": 1.0, "for": "Condition 1" },
+    { "q": "Q4(b)", "page": 8, "x": 180, "y": 1600, "marks": 1.0, "for": "Condition 2" },
+    { "q": "Q4(b)", "page": 8, "x": 180, "y": 2000, "marks": 1.0, "for": "Condition 3" },
+    { "q": "Q6(a)", "page": 8, "x": 180, "y": 3500, "marks": 1.0, "for": "Change in policy noted" },
+    { "q": "Q6(a)", "page": 9, "x": 180, "y": 400, "marks": 1.5, "for": "Disclosure as per AS1" },
+    { "q": "Q6(b)", "page": 9, "x": 180, "y": 1200, "marks": 2.0, "for": "2021 impairment" },
+    { "q": "Q6(b)", "page": 9, "x": 180, "y": 1400, "marks": 2.0, "for": "2022 impairment" },
+    { "q": "Q6(b)", "page": 9, "x": 180, "y": 1600, "marks": 2.0, "for": "2023 reversal" },
+    { "q": "Q6(b)", "page": 9, "x": 180, "y": 2600, "marks": 1.0, "for": "Reversal limit" },
+    { "q": "Q6(c)", "page": 10, "x": 180, "y": 800, "marks": 0.5, "for": "Evolution phase out" },
+    { "q": "Q6(c)", "page": 10, "x": 180, "y": 1000, "marks": 0.5, "for": "Shifting location" },
+    { "q": "Q6(c)", "page": 10, "x": 180, "y": 1200, "marks": 0.5, "for": "Closing facility" },
+    { "q": "Q1(a)", "page": 10, "x": 180, "y": 2000, "marks": 1.0, "for": "Fire non-adjusting" },
+    { "q": "Q1(a)", "page": 10, "x": 180, "y": 2500, "marks": 1.0, "for": "Negotiation non-adjusting" },
+    { "q": "Q1(a)", "page": 10, "x": 180, "y": 3000, "marks": 1.0, "for": "Forex non-adjusting" },
+    { "q": "Q1(b)", "page": 11, "x": 180, "y": 1500, "marks": 1.0, "for": "Dec admin work" },
+    { "q": "Q1(b)", "page": 11, "x": 180, "y": 1800, "marks": 1.0, "for": "Feb interest" }
+  ],
+  "box": {
+    "x1": 1700,
+    "y1": 3100,
+    "x2": 2800,
+    "y2": 4100
+  },
+  "marks": [
+    { "page": 3, "x": 2000, "y": 3800, "text": "Q2 = 5 / 14" },
+    { "page": 6, "x": 2000, "y": 3800, "text": "Q3 = 13 / 14" },
+    { "page": 8, "x": 2000, "y": 3800, "text": "Q4 = 14 / 14" },
+    { "page": 10, "x": 2000, "y": 3800, "text": "Q6 = 11 / 14" },
+    { "page": 11, "x": 2000, "y": 3800, "text": "Q1(a)=3, Q1(b)=2, Q1(c)=0 / 14" },
+    { "page": 1, "x": 1200, "y": 3500, "text": "MCQ = 22 / 30" },
+    { "page": 1, "x": 1200, "y": 3700, "text": "Total = 70 / 100" }
+  ],
+  "underlines": [],
+  "crosses": [],
+  "remarks": [
+    {
+      "q": "MCQ",
+      "title": "Part A (MCQs)",
+      "page": 1,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned 22/30 marks.",
+        "Missed: 1(b)(i), 1(b)(ii), 1(c)(i), 1(c)(iv)."
+      ]
+    },
+    {
+      "q": "Q1(a)",
+      "title": "AS 4 - Events occurring after BS date",
+      "page": 10,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned 3/6 marks. You correctly identified non-adjusting events.",
+        "Missed: Stating the required disclosures in the Board's Report for all three cases."
+      ]
+    },
+    {
+      "q": "Q1(b)",
+      "title": "AS 16 - Borrowing Costs",
+      "page": 11,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned 2/6 marks. Correctly noted December capitalization continuation and February interest calculation.",
+        "Missed: October/November calculations, calculation for January, and final total interest."
+      ]
+    },
+    {
+      "q": "Q1(c)",
+      "title": "AS 5 - Extra-ordinary items",
+      "page": 11,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned 0/2 marks. Calculation of closing stock is wrong (1,42,000 instead of 1,46,000).",
+        "Missed: Stating that revision in accounting estimate should be classified as an extra-ordinary item."
+      ]
+    },
+    {
+      "q": "Q1(d)",
+      "title": "Unattempted",
+      "page": 11,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Try to attempt all parts of the question."
+      ]
+    },
+    {
+      "q": "Q2",
+      "title": "Internal Reconstruction",
+      "page": 3,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned: 5/14 marks. Bank to Equity, Equity to Cap Red, Pref to Cap Red earned.",
+        "Combined Mr X entry earned 1.5, Deb to Pref earned 1.",
+        "Not earned: Preference dividend entry had wrong amount (72,000 instead of 48,000). WARNING: Conceptual error combining entries or using wrong amounts.",
+        "Provision for tax was debited instead of correctly passing it to bank. Other entries for Cap Red were incomplete or amounts were wrong. No working notes or notes to accounts provided."
+      ]
+    },
+    {
+      "q": "Q3",
+      "title": "Consolidated Balance Sheet",
+      "page": 6,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned: 13/14 marks. Excellent work.",
+        "All major balance sheet heads (Equity, Liab, Assets) match perfectly.",
+        "Working notes for Cost of Control, Minority Interest, and P&L were correct.",
+        "Not earned: Missed long-term borrowings and PPE detailed calculations in notes to accounts."
+      ]
+    },
+    {
+      "q": "Q4(a)",
+      "title": "Cash Flow Statement",
+      "page": 8,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned: 10/10 marks. Cash flow statement correctly classified and calculated, reaching required figures.",
+        "Note: maximum marks for 4(a) is capped at 10."
+      ]
+    },
+    {
+      "q": "Q4(b)",
+      "title": "Declaration of Dividend",
+      "page": 8,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned: 4/4 marks. Correctly evaluated all 3 conditions for declaring dividend out of reserves."
+      ]
+    },
+    {
+      "q": "Q6(a)",
+      "title": "AS 5 - Change in Accounting Policy",
+      "page": 10,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned: 2.5/5 marks. Identified change in policy and disclosure need for FIFO to weighted average.",
+        "Missed: Failed to state that provision for non-moving inventory is NOT a change in accounting policy."
+      ]
+    },
+    {
+      "q": "Q6(b)",
+      "title": "AS 28 - Impairment of Assets",
+      "page": 10,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned: 7/7 marks. Correctly identified impairment losses/reversals and applied the limit on reversal."
+      ]
+    },
+    {
+      "q": "Q6(c)",
+      "title": "AS 24 - Related Party",
+      "page": 10,
+      "x": 100,
+      "y": 2800,
+      "lines": [
+        "Earned: 1.5/2 marks.",
+        "Missed: Discontinuing several products within ongoing line."
+      ]
+    }
+  ]
+}
