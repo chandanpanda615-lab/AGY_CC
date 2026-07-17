@@ -1,0 +1,563 @@
+{
+  "student": "Prachi",
+  "paper": "Advanced Accounting  |  Master Test 05",
+  "max": 100,
+  "total": 51.5,
+  "counted": "Q1, Q2, Q3, Q4, Q5",
+  "review": false,
+  "_placement": "A4 portrait scan, 3000x4242 work space.",
+  "mcq": {
+    "x_tick": 2800,
+    "x_mark": 2800,
+    "rows": [
+      {
+        "n": 1,
+        "y": 500,
+        "ok": true,
+        "marks": 2
+      },
+      {
+        "n": 2,
+        "y": 510,
+        "ok": true,
+        "marks": 2
+      },
+      {
+        "n": 3,
+        "y": 520,
+        "ok": true,
+        "marks": 2
+      },
+      {
+        "n": 4,
+        "y": 530,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 5,
+        "y": 540,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 6,
+        "y": 550,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 7,
+        "y": 560,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 8,
+        "y": 570,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 9,
+        "y": 580,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 10,
+        "y": 590,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 11,
+        "y": 600,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 12,
+        "y": 610,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 13,
+        "y": 620,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 14,
+        "y": 630,
+        "ok": false,
+        "marks": 2
+      },
+      {
+        "n": 15,
+        "y": 640,
+        "ok": false,
+        "marks": 2
+      }
+    ]
+  },
+  "questions": [
+    {
+      "q": "Q1",
+      "max": 14,
+      "got": 3
+    },
+    {
+      "q": "Q2",
+      "max": 14,
+      "got": 7
+    },
+    {
+      "q": "Q3",
+      "max": 14,
+      "got": 11
+    },
+    {
+      "q": "Q4",
+      "max": 14,
+      "got": 14
+    },
+    {
+      "q": "Q5",
+      "max": 14,
+      "got": 10.5
+    }
+  ],
+  "steps": [
+    {
+      "q": "Q1",
+      "page": 1,
+      "x": 150,
+      "y": 2000,
+      "marks": 1,
+      "for": "1(a) Fire non-adjusting"
+    },
+    {
+      "q": "Q1",
+      "page": 1,
+      "x": 150,
+      "y": 3000,
+      "marks": 1,
+      "for": "1(a) Negotiation non-adjusting"
+    },
+    {
+      "q": "Q1",
+      "page": 2,
+      "x": 150,
+      "y": 500,
+      "marks": 1,
+      "for": "1(a) Forex loss non-adjusting"
+    },
+    {
+      "q": "Q2",
+      "page": 3,
+      "x": 150,
+      "y": 1000,
+      "marks": 0.5,
+      "for": "Bank to Equity Share Cap"
+    },
+    {
+      "q": "Q2",
+      "page": 3,
+      "x": 150,
+      "y": 1500,
+      "marks": 0.5,
+      "for": "Eq share cap to CR"
+    },
+    {
+      "q": "Q2",
+      "page": 3,
+      "x": 150,
+      "y": 2000,
+      "marks": 0.5,
+      "for": "Pref share to CR"
+    },
+    {
+      "q": "Q2",
+      "page": 3,
+      "x": 150,
+      "y": 2500,
+      "marks": 1,
+      "for": "CR to Eq share for div"
+    },
+    {
+      "q": "Q2",
+      "page": 3,
+      "x": 150,
+      "y": 3500,
+      "marks": 1,
+      "for": "Deb & Creditors to Mr X"
+    },
+    {
+      "q": "Q2",
+      "page": 4,
+      "x": 150,
+      "y": 2000,
+      "marks": 1,
+      "for": "Prov for tax"
+    },
+    {
+      "q": "Q2",
+      "page": 4,
+      "x": 150,
+      "y": 2500,
+      "marks": 1,
+      "for": "Inventory write off"
+    },
+    {
+      "q": "Q2",
+      "page": 4,
+      "x": 150,
+      "y": 3500,
+      "marks": 1,
+      "for": "Investments, bad debt, plant write offs"
+    },
+    {
+      "q": "Q2",
+      "page": 5,
+      "x": 150,
+      "y": 2000,
+      "marks": 0.5,
+      "for": "Revised capital structure"
+    },
+    {
+      "q": "Q3",
+      "page": 5,
+      "x": 150,
+      "y": 3000,
+      "marks": 1.5,
+      "for": "Share Cap and Minority Int"
+    },
+    {
+      "q": "Q3",
+      "page": 6,
+      "x": 150,
+      "y": 1000,
+      "marks": 2.5,
+      "for": "Non-current & Current liabilities"
+    },
+    {
+      "q": "Q3",
+      "page": 6,
+      "x": 150,
+      "y": 2000,
+      "marks": 1.5,
+      "for": "Assets (PPE, Goodwill, Cash)"
+    },
+    {
+      "q": "Q3",
+      "page": 6,
+      "x": 150,
+      "y": 3000,
+      "marks": 0.5,
+      "for": "Notes: Share Capital"
+    },
+    {
+      "q": "Q3",
+      "page": 7,
+      "x": 150,
+      "y": 500,
+      "marks": 0.5,
+      "for": "Notes: Long term borrowings"
+    },
+    {
+      "q": "Q3",
+      "page": 7,
+      "x": 150,
+      "y": 1000,
+      "marks": 1,
+      "for": "Notes: PPE"
+    },
+    {
+      "q": "Q3",
+      "page": 7,
+      "x": 150,
+      "y": 2000,
+      "marks": 0.5,
+      "for": "Notes: Inventories"
+    },
+    {
+      "q": "Q3",
+      "page": 8,
+      "x": 150,
+      "y": 1000,
+      "marks": 1,
+      "for": "WN: Cost of Control"
+    },
+    {
+      "q": "Q3",
+      "page": 8,
+      "x": 150,
+      "y": 1500,
+      "marks": 1,
+      "for": "WN: Minority Interest"
+    },
+    {
+      "q": "Q3",
+      "page": 8,
+      "x": 150,
+      "y": 2500,
+      "marks": 0.5,
+      "for": "WN: General Reserve"
+    },
+    {
+      "q": "Q4",
+      "page": 9,
+      "x": 150,
+      "y": 900,
+      "marks": 2,
+      "for": "Cash Flow Operating before WC (part 1)"
+    },
+    {
+      "q": "Q4",
+      "page": 9,
+      "x": 150,
+      "y": 1100,
+      "marks": 2,
+      "for": "Cash Flow Operating before WC (part 2)"
+    },
+    {
+      "q": "Q4",
+      "page": 9,
+      "x": 150,
+      "y": 1900,
+      "marks": 2,
+      "for": "Cash Flow Operating net (part 1)"
+    },
+    {
+      "q": "Q4",
+      "page": 9,
+      "x": 150,
+      "y": 2100,
+      "marks": 2,
+      "for": "Cash Flow Operating net (part 2)"
+    },
+    {
+      "q": "Q4",
+      "page": 9,
+      "x": 150,
+      "y": 3000,
+      "marks": 2,
+      "for": "Cash Flow Investing"
+    },
+    {
+      "q": "Q4",
+      "page": 10,
+      "x": 150,
+      "y": 1500,
+      "marks": 1,
+      "for": "4(b) Div declared & reserves amt"
+    },
+    {
+      "q": "Q4",
+      "page": 10,
+      "x": 150,
+      "y": 2500,
+      "marks": 1,
+      "for": "4(b) Condition 1"
+    },
+    {
+      "q": "Q4",
+      "page": 10,
+      "x": 150,
+      "y": 3000,
+      "marks": 1,
+      "for": "4(b) Condition 2"
+    },
+    {
+      "q": "Q4",
+      "page": 10,
+      "x": 150,
+      "y": 3500,
+      "marks": 1,
+      "for": "4(b) Condition 3"
+    },
+    {
+      "q": "Q5",
+      "page": 12,
+      "x": 150,
+      "y": 1000,
+      "marks": 2.5,
+      "for": "5(a) Branch Stock"
+    },
+    {
+      "q": "Q5",
+      "page": 12,
+      "x": 150,
+      "y": 2000,
+      "marks": 1,
+      "for": "5(a) Branch Adj loadings"
+    },
+    {
+      "q": "Q5",
+      "page": 12,
+      "x": 150,
+      "y": 3000,
+      "marks": 2.5,
+      "for": "5(a) Branch P&L"
+    },
+    {
+      "q": "Q5",
+      "page": 12,
+      "x": 150,
+      "y": 3500,
+      "marks": 2.5,
+      "for": "5(a) Branch Debtors"
+    },
+    {
+      "q": "Q5",
+      "page": 13,
+      "x": 150,
+      "y": 1000,
+      "marks": 2,
+      "for": "5(b) Liability to be recognised"
+    },
+    {
+      "q": "Q3",
+      "page": 6,
+      "x": 150,
+      "y": 1500,
+      "marks": 0.5,
+      "for": "Trade Payables computation"
+    }
+  ],
+  "marks": [
+    {
+      "page": 1,
+      "x": 2000,
+      "y": 3800,
+      "text": "MCQ = 6 / 30"
+    },
+    {
+      "page": 2,
+      "x": 2000,
+      "y": 3800,
+      "text": "Q1 = 3 / 14"
+    },
+    {
+      "page": 5,
+      "x": 2000,
+      "y": 3800,
+      "text": "Q2 = 7 / 14"
+    },
+    {
+      "page": 8,
+      "x": 2000,
+      "y": 3800,
+      "text": "Q3 = 11 / 14"
+    },
+    {
+      "page": 11,
+      "x": 2000,
+      "y": 3800,
+      "text": "Q4 = 14 / 14"
+    },
+    {
+      "page": 13,
+      "x": 2000,
+      "y": 3800,
+      "text": "Q5 = 10.5 / 14"
+    }
+  ],
+  "remarks": [
+    {
+      "q": "MCQ",
+      "title": "Part A (MCQs)",
+      "page": 1,
+      "x": 100,
+      "y": 3200,
+      "lines": [
+        "Earned: 1(a)(iv), 1(b)(iii), 1(b)(iv).",
+        "Not earned: All others wrong. You scored",
+        "6/30 on MCQs which is very poor."
+      ]
+    },
+    {
+      "q": "Q1",
+      "title": "Question 1 (Compulsory)",
+      "page": 2,
+      "x": 100,
+      "y": 3200,
+      "lines": [
+        "Earned: 1(a) identified the events as",
+        "non-adjusting.",
+        "Not earned: 1(a) disclosure is required",
+        "in the Approving Authority's report",
+        "(Board's report), not notes to accounts.",
+        "1(b) borrowing cost calculation not attempted.",
+        "1(c) closing stock value 1,46,000 (you got 1,42,000)",
+        "and failed to state classification as extra-ordinary."
+      ]
+    },
+    {
+      "q": "Q2",
+      "title": "Question 2 - Internal Reconstruction",
+      "page": 5,
+      "x": 100,
+      "y": 3200,
+      "lines": [
+        "Earned: Entries for bank to eq share, pref to CR,",
+        "dividend settlement, tax, inventory write off.",
+        "Not earned: You got the debenture settlement to Mr. X",
+        "wrong (162,500 instead of 182,500). Also entry",
+        "for Bank Overdraft was wrong (you credited debentures",
+        "instead of Bank A/c). Finally, you missed Inventory",
+        "write off of 20,000 in the final Capital Reduction entry."
+      ]
+    },
+    {
+      "q": "Q3",
+      "title": "Question 3 - Consolidation",
+      "page": 8,
+      "x": 100,
+      "y": 3200,
+      "lines": [
+        "Earned: Share Capital, Minority Interest, Non-current",
+        "and current liabilities, PPE, Goodwill, Notes.",
+        "Not earned: You made an addition error in Consolidated",
+        "P&L calculation (1025000 + 431250 - 30000 = 1426250,",
+        "but you wrote 1486250). Trade Receivables calculation",
+        "was also wrong."
+      ]
+    },
+    {
+      "q": "Q4",
+      "title": "Question 4 - Cash Flow & Buy Back",
+      "page": 11,
+      "x": 100,
+      "y": 3200,
+      "lines": [
+        "Earned: Full marks! Cash Flow Statement was",
+        "perfectly calculated for all three activities.",
+        "Buy-back conditions clearly verified and satisfied."
+      ]
+    },
+    {
+      "q": "Q5",
+      "title": "Question 5",
+      "page": 13,
+      "x": 100,
+      "y": 3200,
+      "lines": [
+        "Earned: 5(a) Branch Stock A/c, Debtors A/c correct.",
+        "5(b) Liability to be recognised correctly calculated.",
+        "Not earned: 5(a) Branch Adjustment A/c had balancing",
+        "error leading to wrong Gross Profit (12,000 instead",
+        "of 51,200). 5(b) You missed calculating the Gain",
+        "from curtailment (582) separately."
+      ]
+    }
+  ],
+  "box": {
+    "x1": 1760,
+    "y1": 3120,
+    "x2": 2870,
+    "y2": 4180
+  }
+}
