@@ -1,0 +1,173 @@
+{
+    "student": "Abhaya",
+    "paper": "Master Test Series 05 (Advanced Accounting)",
+    "total": 71,
+    "max": 114,
+    "counted": "1, 2, 3, 4, 6",
+    "box": {
+        "x1": 2000,
+        "y1": 200,
+        "x2": 2900,
+        "y2": 1300
+    },
+    "mcq": {
+        "x_tick": 150,
+        "x_mark": 250,
+        "rows": [
+            {"page": 1, "q": "1(a)(i)", "ok": false, "marks": 2, "y": 700},
+            {"page": 1, "q": "1(a)(ii)", "ok": false, "marks": 2, "y": 800},
+            {"page": 1, "q": "1(a)(iii)", "ok": false, "marks": 2, "y": 900},
+            {"page": 1, "q": "1(a)(iv)", "ok": true, "marks": 2, "y": 1050},
+            {"page": 1, "q": "1(b)(i)", "ok": true, "marks": 2, "y": 1400},
+            {"page": 1, "q": "1(b)(ii)", "ok": false, "marks": 2, "y": 1500},
+            {"page": 1, "q": "1(b)(iii)", "ok": true, "marks": 2, "y": 1600},
+            {"page": 1, "q": "1(b)(iv)", "ok": true, "marks": 2, "y": 1700},
+            {"page": 1, "q": "1(c)(i)", "ok": false, "marks": 2, "y": 1900},
+            {"page": 1, "q": "1(c)(ii)", "ok": false, "marks": 2, "y": 2000},
+            {"page": 1, "q": "1(c)(iii)", "ok": true, "marks": 2, "y": 2100},
+            {"page": 1, "q": "1(c)(iv)", "ok": false, "marks": 2, "y": 2200},
+            {"page": 1, "q": "1(d)(i)", "ok": false, "marks": 2, "y": 2500},
+            {"page": 1, "q": "1(d)(ii)", "ok": true, "marks": 2, "y": 2600},
+            {"page": 1, "q": "1(d)(iii)", "ok": true, "marks": 2, "y": 2700}
+        ]
+    },
+    "questions": [
+        {"q": "1(a)", "got": 4, "max": 6, "attempted": true},
+        {"q": "1(b)", "got": 0, "max": 6, "attempted": false},
+        {"q": "1(c)", "got": 1, "max": 2, "attempted": true},
+        {"q": "2", "got": 12, "max": 14, "attempted": true},
+        {"q": "3", "got": 14, "max": 14, "attempted": true},
+        {"q": "4", "got": 12, "max": 14, "attempted": true},
+        {"q": "5", "got": 0, "max": 14, "attempted": false},
+        {"q": "6", "got": 14, "max": 14, "attempted": true}
+    ],
+    "steps": [
+        {"page": 2, "marks": 2, "q": "1(a)", "x": 200, "y": 600},
+        {"page": 2, "marks": 1, "q": "1(a)", "x": 200, "y": 1500},
+        {"page": 2, "marks": 1, "q": "1(a)", "x": 200, "y": 2500},
+        {"page": 3, "marks": 1, "q": "1(c)", "x": 200, "y": 1000},
+        
+        {"page": 4, "marks": 2.5, "q": "6", "x": 200, "y": 1200},
+        {"page": 4, "marks": 2.5, "q": "6", "x": 200, "y": 2600},
+        {"page": 5, "marks": 0.5, "q": "6", "x": 200, "y": 500},
+        {"page": 5, "marks": 0.5, "q": "6", "x": 200, "y": 700},
+        {"page": 5, "marks": 0.5, "q": "6", "x": 200, "y": 900},
+        {"page": 5, "marks": 0.5, "q": "6", "x": 200, "y": 1100},
+        {"page": 5, "marks": 2, "q": "6", "x": 200, "y": 1900},
+        {"page": 5, "marks": 2, "q": "6", "x": 200, "y": 2400},
+        {"page": 6, "marks": 3, "q": "6", "x": 200, "y": 1000},
+
+        {"page": 7, "marks": 3, "q": "4", "x": 200, "y": 2500},
+        {"page": 8, "marks": 3, "q": "4", "x": 200, "y": 1000},
+        {"page": 8, "marks": 2, "q": "4", "x": 200, "y": 1600},
+        {"page": 8, "marks": 2, "q": "4", "x": 200, "y": 2500},
+        
+        {"page": 9, "marks": 1, "q": "4", "x": 200, "y": 800},
+        {"page": 9, "marks": 1, "q": "4", "x": 200, "y": 1500},
+
+        {"page": 10, "marks": 0.5, "q": "2", "x": 200, "y": 900},
+        {"page": 10, "marks": 0.5, "q": "2", "x": 200, "y": 1200},
+        {"page": 10, "marks": 0.5, "q": "2", "x": 200, "y": 1500},
+        {"page": 10, "marks": 0.5, "q": "2", "x": 200, "y": 1800},
+        {"page": 10, "marks": 1, "q": "2", "x": 200, "y": 2300},
+        {"page": 10, "marks": 1, "q": "2", "x": 200, "y": 2700},
+
+        {"page": 11, "marks": 0.5, "q": "2", "x": 200, "y": 600},
+        {"page": 11, "marks": 1, "q": "2", "x": 200, "y": 1000},
+        {"page": 11, "marks": 1, "q": "2", "x": 200, "y": 1500},
+        {"page": 11, "marks": 1, "q": "2", "x": 200, "y": 2300},
+        {"page": 11, "marks": 1, "q": "2", "x": 200, "y": 2800},
+        
+        {"page": 12, "marks": 0.5, "q": "2", "x": 200, "y": 400},
+        {"page": 12, "marks": 0.5, "q": "2", "x": 200, "y": 700},
+        {"page": 12, "marks": 1, "q": "2", "x": 200, "y": 1200},
+        {"page": 12, "marks": 0.5, "q": "2", "x": 200, "y": 2300},
+        
+        {"page": 13, "marks": 1, "q": "2", "x": 200, "y": 2300},
+        
+        {"page": 14, "marks": 2.5, "q": "3", "x": 200, "y": 1000},
+        {"page": 14, "marks": 2.5, "q": "3", "x": 200, "y": 1700},
+        {"page": 14, "marks": 2.5, "q": "3", "x": 200, "y": 2700},
+        
+        {"page": 15, "marks": 0.5, "q": "3", "x": 200, "y": 500},
+        {"page": 15, "marks": 0.5, "q": "3", "x": 200, "y": 1600},
+        {"page": 15, "marks": 1, "q": "3", "x": 200, "y": 2100},
+        {"page": 15, "marks": 0.5, "q": "3", "x": 200, "y": 2500},
+        {"page": 15, "marks": 0.5, "q": "3", "x": 200, "y": 2900},
+        
+        {"page": 16, "marks": 0.5, "q": "3", "x": 200, "y": 500},
+        {"page": 16, "marks": 0.5, "q": "3", "x": 200, "y": 900},
+        {"page": 16, "marks": 0.5, "q": "3", "x": 200, "y": 1300},
+        {"page": 16, "marks": 1, "q": "3", "x": 200, "y": 2200},
+        
+        {"page": 17, "marks": 0.5, "q": "3", "x": 200, "y": 800},
+        {"page": 17, "marks": 0.5, "q": "3", "x": 200, "y": 1600}
+    ],
+    "remarks": [
+        {
+            "q": "MCQ",
+            "lines": [
+                "Scored 14 out of 30."
+            ]
+        },
+        {
+            "q": "1(a)",
+            "lines": [
+                "Part (i): Concluded correctly as non-adjusting event requiring disclosure.",
+                "Part (ii): Identified as non-adjusting event but incorrectly stated it doesn't need disclosure.",
+                "Part (iii): Identified as non-adjusting event but missed requirement for disclosure."
+            ]
+        },
+        {
+            "q": "1(b)",
+            "lines": [
+                "Try to attempt all parts of the question."
+            ]
+        },
+        {
+            "q": "1(c)",
+            "lines": [
+                "Calculation of closing stock excluding damaged goods is correct.",
+                "Missed stating that revision in accounting estimate is classified as an extra-ordinary item."
+            ]
+        },
+        {
+            "q": "2",
+            "lines": [
+                "Most journal entries are perfectly correct. Capital reduction account and Bank account match.",
+                "Missed passing dividend through Capital Reduction.",
+                "Missed calculating equity shares issued for dividend arrears and new face value of Pref shares."
+            ]
+        },
+        {
+            "q": "3",
+            "lines": [
+                "Perfectly done. Balance sheet and all working notes perfectly match the scheme.",
+                "Good presentation."
+            ]
+        },
+        {
+            "q": "4",
+            "lines": [
+                "Cash flow statement perfectly done.",
+                "In part (b), Condition I and II are calculated correctly.",
+                "In Condition III, compared the balance of reserves with 15% of paid-up capital incorrectly.",
+                "Missed calculation of amount to be utilized for dividend."
+            ]
+        },
+        {
+            "q": "5",
+            "lines": [
+                "Try to attempt all parts of the question."
+            ]
+        },
+        {
+            "q": "6",
+            "lines": [
+                "Part (a) provision for oil rig and retraining staff correctly assessed.",
+                "Part (b) impairment correctly recognized initially.",
+                "In 31/3/23, wrote 'recognise impairment loss' instead of 'reversal of impairment loss'."
+            ]
+        }
+    ]
+}
