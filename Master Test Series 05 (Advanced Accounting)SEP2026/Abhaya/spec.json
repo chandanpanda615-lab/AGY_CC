@@ -9,96 +9,529 @@
     "x_tick": 400,
     "x_mark": 500,
     "rows": [
-      {"ok": false, "marks": 2, "y": 250},
-      {"ok": false, "marks": 2, "y": 280},
-      {"ok": false, "marks": 2, "y": 320},
-      {"ok": true, "marks": 2, "y": 350},
-      {"ok": true, "marks": 2, "y": 420},
-      {"ok": false, "marks": 2, "y": 450},
-      {"ok": true, "marks": 2, "y": 480},
-      {"ok": true, "marks": 2, "y": 510},
-      {"ok": false, "marks": 2, "y": 600},
-      {"ok": false, "marks": 2, "y": 630},
-      {"ok": true, "marks": 2, "y": 660},
-      {"ok": false, "marks": 2, "y": 690},
-      {"ok": false, "marks": 2, "y": 780},
-      {"ok": true, "marks": 2, "y": 810},
-      {"ok": true, "marks": 2, "y": 850}
+      {
+        "ok": false,
+        "marks": 2,
+        "y": 1000,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": false,
+        "marks": 2,
+        "y": 1150,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": false,
+        "marks": 2,
+        "y": 1300,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1450,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1600,
+        "x_tick": 500,
+        "x_score": 700
+      },
+      {
+        "ok": false,
+        "marks": 2,
+        "y": 1000,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1150,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1300,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": false,
+        "marks": 2,
+        "y": 1450,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": false,
+        "marks": 2,
+        "y": 1600,
+        "x_tick": 1300,
+        "x_score": 1500
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1000,
+        "x_tick": 2100,
+        "x_score": 2300
+      },
+      {
+        "ok": false,
+        "marks": 2,
+        "y": 1150,
+        "x_tick": 2100,
+        "x_score": 2300
+      },
+      {
+        "ok": false,
+        "marks": 2,
+        "y": 1300,
+        "x_tick": 2100,
+        "x_score": 2300
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1450,
+        "x_tick": 2100,
+        "x_score": 2300
+      },
+      {
+        "ok": true,
+        "marks": 2,
+        "y": 1600,
+        "x_tick": 2100,
+        "x_score": 2300
+      }
     ]
   },
   "box": {
     "x1": 200,
-    "y1": 1500,
+    "y1": 2200,
     "x2": 1500,
-    "y2": 2500
+    "y2": 3200
   },
   "questions": [
-    {"q": "1(a)", "got": 4, "max": 6},
-    {"q": "1(b)", "got": 0, "max": 6, "attempted": false},
-    {"q": "1(c)", "got": 1, "max": 2},
-    {"q": "2", "got": 12.5, "max": 14},
-    {"q": "3", "got": 14, "max": 14},
-    {"q": "4(a)", "got": 10, "max": 10},
-    {"q": "4(b)", "got": 1, "max": 4},
-    {"q": "6(a)", "got": 5, "max": 5},
-    {"q": "6(c)", "got": 2, "max": 2},
-    {"q": "6(b)", "got": 7, "max": 7}
+    {
+      "q": "1(a)",
+      "got": 4,
+      "max": 6
+    },
+    {
+      "q": "1(b)",
+      "got": 0,
+      "max": 6,
+      "attempted": false
+    },
+    {
+      "q": "1(c)",
+      "got": 1,
+      "max": 2
+    },
+    {
+      "q": "2",
+      "got": 12.5,
+      "max": 14
+    },
+    {
+      "q": "3",
+      "got": 14,
+      "max": 14
+    },
+    {
+      "q": "4(a)",
+      "got": 10,
+      "max": 10
+    },
+    {
+      "q": "4(b)",
+      "got": 1,
+      "max": 4
+    },
+    {
+      "q": "6(a)",
+      "got": 5,
+      "max": 5
+    },
+    {
+      "q": "6(c)",
+      "got": 2,
+      "max": 2
+    },
+    {
+      "q": "6(b)",
+      "got": 7,
+      "max": 7
+    }
   ],
   "steps": [
-    {"page": 2, "q": "1(a)", "marks": 2, "x": 2700, "y": 250},
-    {"page": 2, "q": "1(a)", "marks": 1, "x": 2700, "y": 600},
-    {"page": 2, "q": "1(a)", "marks": 1, "x": 2700, "y": 800},
-    {"page": 3, "q": "1(c)", "marks": 1, "x": 2700, "y": 550},
-    {"page": 4, "q": "6(a)", "marks": 2.5, "x": 2700, "y": 300},
-    {"page": 4, "q": "6(a)", "marks": 2.5, "x": 2700, "y": 700},
-    {"page": 5, "q": "6(c)", "marks": 2, "x": 2700, "y": 250},
-    {"page": 5, "q": "6(b)", "marks": 2, "x": 2700, "y": 700},
-    {"page": 5, "q": "6(b)", "marks": 2, "x": 2700, "y": 900},
-    {"page": 6, "q": "6(b)", "marks": 3, "x": 2700, "y": 600},
-    {"page": 7, "q": "4(a)", "marks": 4, "x": 2700, "y": 450},
-    {"page": 7, "q": "4(a)", "marks": 4, "x": 2700, "y": 850},
-    {"page": 8, "q": "4(a)", "marks": 2, "x": 2700, "y": 300},
-    {"page": 9, "q": "4(b)", "marks": 1, "x": 2700, "y": 250},
-    {"page": 10, "q": "2", "marks": 0.5, "x": 2700, "y": 100},
-    {"page": 10, "q": "2", "marks": 0.5, "x": 2700, "y": 250},
-    {"page": 10, "q": "2", "marks": 0.5, "x": 2700, "y": 550},
-    {"page": 10, "q": "2", "marks": 1, "x": 2700, "y": 850},
-    {"page": 11, "q": "2", "marks": 0.5, "x": 2700, "y": 100},
-    {"page": 11, "q": "2", "marks": 0.5, "x": 2700, "y": 200},
-    {"page": 11, "q": "2", "marks": 1, "x": 2700, "y": 350},
-    {"page": 11, "q": "2", "marks": 1, "x": 2700, "y": 500},
-    {"page": 11, "q": "2", "marks": 1, "x": 2700, "y": 850},
-    {"page": 11, "q": "2", "marks": 1, "x": 2700, "y": 950},
-    {"page": 12, "q": "2", "marks": 0.5, "x": 2700, "y": 150},
-    {"page": 12, "q": "2", "marks": 0.5, "x": 2700, "y": 200},
-    {"page": 12, "q": "2", "marks": 1, "x": 2700, "y": 300},
-    {"page": 12, "q": "2", "marks": 0.5, "x": 2700, "y": 550},
-    {"page": 12, "q": "2", "marks": 0.5, "x": 2700, "y": 750},
-    {"page": 12, "q": "2", "marks": 1, "x": 2700, "y": 650},
-    {"page": 13, "q": "2", "marks": 1, "x": 2700, "y": 700},
-    {"page": 14, "q": "3", "marks": 2.5, "x": 2700, "y": 450},
-    {"page": 14, "q": "3", "marks": 2.5, "x": 2700, "y": 600},
-    {"page": 14, "q": "3", "marks": 2.5, "x": 2700, "y": 900},
-    {"page": 15, "q": "3", "marks": 0.5, "x": 2700, "y": 200},
-    {"page": 15, "q": "3", "marks": 0.5, "x": 2700, "y": 850},
-    {"page": 15, "q": "3", "marks": 0.5, "x": 2700, "y": 950},
-    {"page": 16, "q": "3", "marks": 1, "x": 2700, "y": 200},
-    {"page": 16, "q": "3", "marks": 0.5, "x": 2700, "y": 350},
-    {"page": 16, "q": "3", "marks": 1.5, "x": 2700, "y": 650},
-    {"page": 16, "q": "3", "marks": 1, "x": 2700, "y": 850},
-    {"page": 17, "q": "3", "marks": 1, "x": 2700, "y": 250}
+    {
+      "page": 2,
+      "q": "1(a)",
+      "marks": 2,
+      "x": 1250,
+      "y": 250
+    },
+    {
+      "page": 2,
+      "q": "1(a)",
+      "marks": 1,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "page": 2,
+      "q": "1(a)",
+      "marks": 1,
+      "x": 1200,
+      "y": 800
+    },
+    {
+      "page": 3,
+      "q": "1(c)",
+      "marks": 1,
+      "x": 1350,
+      "y": 550
+    },
+    {
+      "page": 4,
+      "q": "6(a)",
+      "marks": 2.5,
+      "x": 1300,
+      "y": 300
+    },
+    {
+      "page": 4,
+      "q": "6(a)",
+      "marks": 2.5,
+      "x": 1300,
+      "y": 700
+    },
+    {
+      "page": 5,
+      "q": "6(c)",
+      "marks": 2,
+      "x": 1250,
+      "y": 250
+    },
+    {
+      "page": 5,
+      "q": "6(b)",
+      "marks": 2,
+      "x": 1300,
+      "y": 700
+    },
+    {
+      "page": 5,
+      "q": "6(b)",
+      "marks": 2,
+      "x": 1300,
+      "y": 900
+    },
+    {
+      "page": 6,
+      "q": "6(b)",
+      "marks": 3,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "page": 7,
+      "q": "4(a)",
+      "marks": 4,
+      "x": 1250,
+      "y": 450
+    },
+    {
+      "page": 7,
+      "q": "4(a)",
+      "marks": 4,
+      "x": 1250,
+      "y": 850
+    },
+    {
+      "page": 8,
+      "q": "4(a)",
+      "marks": 2,
+      "x": 1300,
+      "y": 300
+    },
+    {
+      "page": 9,
+      "q": "4(b)",
+      "marks": 1,
+      "x": 1250,
+      "y": 250
+    },
+    {
+      "page": 10,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1300,
+      "y": 100
+    },
+    {
+      "page": 10,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1250,
+      "y": 250
+    },
+    {
+      "page": 10,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1350,
+      "y": 550
+    },
+    {
+      "page": 10,
+      "q": "2",
+      "marks": 1,
+      "x": 1250,
+      "y": 850
+    },
+    {
+      "page": 11,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1300,
+      "y": 100
+    },
+    {
+      "page": 11,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 200
+    },
+    {
+      "page": 11,
+      "q": "2",
+      "marks": 1,
+      "x": 1350,
+      "y": 350
+    },
+    {
+      "page": 11,
+      "q": "2",
+      "marks": 1,
+      "x": 1300,
+      "y": 500
+    },
+    {
+      "page": 11,
+      "q": "2",
+      "marks": 1,
+      "x": 1250,
+      "y": 850
+    },
+    {
+      "page": 11,
+      "q": "2",
+      "marks": 1,
+      "x": 1350,
+      "y": 950
+    },
+    {
+      "page": 12,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1350,
+      "y": 150
+    },
+    {
+      "page": 12,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 200
+    },
+    {
+      "page": 12,
+      "q": "2",
+      "marks": 1,
+      "x": 1300,
+      "y": 300
+    },
+    {
+      "page": 12,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1350,
+      "y": 550
+    },
+    {
+      "page": 12,
+      "q": "2",
+      "marks": 0.5,
+      "x": 1350,
+      "y": 750
+    },
+    {
+      "page": 12,
+      "q": "2",
+      "marks": 1,
+      "x": 1250,
+      "y": 650
+    },
+    {
+      "page": 13,
+      "q": "2",
+      "marks": 1,
+      "x": 1300,
+      "y": 700
+    },
+    {
+      "page": 14,
+      "q": "3",
+      "marks": 2.5,
+      "x": 1250,
+      "y": 450
+    },
+    {
+      "page": 14,
+      "q": "3",
+      "marks": 2.5,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "page": 14,
+      "q": "3",
+      "marks": 2.5,
+      "x": 1300,
+      "y": 900
+    },
+    {
+      "page": 15,
+      "q": "3",
+      "marks": 0.5,
+      "x": 1200,
+      "y": 200
+    },
+    {
+      "page": 15,
+      "q": "3",
+      "marks": 0.5,
+      "x": 1250,
+      "y": 850
+    },
+    {
+      "page": 15,
+      "q": "3",
+      "marks": 0.5,
+      "x": 1350,
+      "y": 950
+    },
+    {
+      "page": 16,
+      "q": "3",
+      "marks": 1,
+      "x": 1200,
+      "y": 200
+    },
+    {
+      "page": 16,
+      "q": "3",
+      "marks": 0.5,
+      "x": 1350,
+      "y": 350
+    },
+    {
+      "page": 16,
+      "q": "3",
+      "marks": 1.5,
+      "x": 1250,
+      "y": 650
+    },
+    {
+      "page": 16,
+      "q": "3",
+      "marks": 1,
+      "x": 1250,
+      "y": 850
+    },
+    {
+      "page": 17,
+      "q": "3",
+      "marks": 1,
+      "x": 1250,
+      "y": 250
+    }
   ],
   "marks": [
-    {"page": 1, "text": "Q1(MCQ) = 14 / 30", "x": 2500, "y": 150},
-    {"page": 2, "text": "Q1(a) = 4 / 6", "x": 2500, "y": 950},
-    {"page": 3, "text": "Q1(c) = 1 / 2", "x": 2500, "y": 650},
-    {"page": 4, "text": "Q6(a) = 5 / 5", "x": 2500, "y": 850},
-    {"page": 5, "text": "Q6(c) = 2 / 2", "x": 2500, "y": 450},
-    {"page": 6, "text": "Q6(b) = 7 / 7", "x": 2500, "y": 900},
-    {"page": 8, "text": "Q4(a) = 10 / 10", "x": 2500, "y": 900},
-    {"page": 9, "text": "Q4(b) = 1 / 4", "x": 2500, "y": 900},
-    {"page": 13, "text": "Q2 = 12.5 / 14", "x": 2500, "y": 900},
-    {"page": 17, "text": "Q3 = 14 / 14", "x": 2500, "y": 700}
+    {
+      "page": 1,
+      "text": "Q1(MCQ) = 14 / 30",
+      "x": 2200,
+      "y": 150
+    },
+    {
+      "page": 2,
+      "text": "Q1(a) = 4 / 6",
+      "x": 2200,
+      "y": 950
+    },
+    {
+      "page": 3,
+      "text": "Q1(c) = 1 / 2",
+      "x": 2200,
+      "y": 650
+    },
+    {
+      "page": 4,
+      "text": "Q6(a) = 5 / 5",
+      "x": 2200,
+      "y": 850
+    },
+    {
+      "page": 5,
+      "text": "Q6(c) = 2 / 2",
+      "x": 2200,
+      "y": 450
+    },
+    {
+      "page": 6,
+      "text": "Q6(b) = 7 / 7",
+      "x": 2200,
+      "y": 900
+    },
+    {
+      "page": 8,
+      "text": "Q4(a) = 10 / 10",
+      "x": 2200,
+      "y": 900
+    },
+    {
+      "page": 9,
+      "text": "Q4(b) = 1 / 4",
+      "x": 2200,
+      "y": 900
+    },
+    {
+      "page": 13,
+      "text": "Q2 = 12.5 / 14",
+      "x": 2200,
+      "y": 900
+    },
+    {
+      "page": 17,
+      "text": "Q3 = 14 / 14",
+      "x": 2200,
+      "y": 700
+    }
   ],
   "remarks": [
     {
@@ -110,7 +543,8 @@
         "You correctly identified the fire as a non-adjusting event requiring disclosure.",
         "For acquisition negotiation, you identified it as non-adjusting but missed the disclosure requirement. Warn: Conceptual error - requires disclosure in Board's Report.",
         "For foreign exchange loss, you missed the disclosure requirement."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "1(b)",
@@ -118,7 +552,8 @@
       "x": 200,
       "lines": [
         "Try to attempt all parts of the question."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "1(c)",
@@ -128,7 +563,8 @@
         "1(c): Earned 1/2 marks.",
         "Correctly calculated the closing stock excluding damaged goods.",
         "Missed classifying the revision in accounting estimate as an extra-ordinary item."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "6(a)",
@@ -137,7 +573,8 @@
       "lines": [
         "6(a): Earned 5/5 marks.",
         "Correctly recognized 85% provision for removal of oil rig and no provision for retraining staff as the obligation is not incurred."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "6(c)",
@@ -146,7 +583,8 @@
       "lines": [
         "6(c): Earned 2/2 marks.",
         "Correctly listed all conditions for discontinuing operations."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "6(b)",
@@ -155,7 +593,8 @@
       "lines": [
         "6(b): Earned 7/7 marks.",
         "Correct computation of impairment loss for all three years, including the accurate reversal of impairment loss limited to the carrying amount."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "4(a)",
@@ -165,7 +604,8 @@
         "4(a): Earned 10/10 marks.",
         "Excellent preparation of Cash Flow Statement.",
         "Correctly computed net cash flow from operating activities and investing activities. Maximum marks capped to 10 for this part."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "4(b)",
@@ -176,7 +616,8 @@
         "Correctly checked Condition I (10% is lower than average 12%).",
         "Warn: Conceptual error - Current year profit should not be included in free reserves for calculating the Condition II limit.",
         "Missed calculating the correct amount to be utilized and checking Condition III properly due to the consequential error."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "2",
@@ -188,7 +629,8 @@
         "Warn: Procedural error - Should cancel old shares and issue new ones of reduced face value instead of just reducing capital.",
         "Warn: Conceptual error - Unrecorded liability (preference dividend) settled should be routed through Capital Reduction.",
         "Working notes and other entries are correct."
-      ]
+      ],
+      "y": 3000
     },
     {
       "q": "3",
@@ -198,6 +640,17 @@
         "3: Earned 14/14 marks.",
         "Excellent preparation of Consolidated Balance Sheet.",
         "All calculations for minority interest, cost of control, and consolidated reserves are accurate."
+      ],
+      "y": 3000
+    },
+    {
+      "q": "MCQ",
+      "title": "Part I (MCQ)",
+      "page": 1,
+      "x": 1700,
+      "y": 2200,
+      "lines": [
+        "Evaluated 14 marks for MCQs."
       ]
     }
   ]
